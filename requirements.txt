@@ -9,3 +9,4 @@ peft==0.13.2
 sentencepiece==0.2.0
 unsloth
 googletrans
+deepspeed
