@@ -742,6 +742,2697 @@
             }
         ],
         "final_answer": "Điều khiển xe máy lạng lách, đánh võng bị phạt từ 6.000.000 đến 8.000.000 đồng và có thể bị tước giấy phép lái xe từ 1 đến 3 tháng."
-    }
-    
+    },
+    {
+        "question": "Lái xe máy không đội mũ bảo hiểm bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt cụ thể cho hành vi không đội mũ bảo hiểm khi điều khiển xe máy",
+        "iterations": [
+          {
+            "query": "Mức phạt không đội mũ bảo hiểm xe máy",
+            "retrieved_documents": [
+              "Điều 7, khoản 2: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với hành vi 'Không đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" hoặc đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" không cài quai đúng quy cách khi điều khiển xe tham gia giao thông'"
+            ],
+            "reasoning": "Tìm thấy mức phạt cụ thể cho việc không đội mũ bảo hiểm. Cần kiểm tra thêm nếu có mức phạt khác nhau cho người điều khiển và người được chở"
+          },
+          {
+            "query": "Mức phạt cho người không đội mũ bảo hiểm khi được chở xe máy",
+            "retrieved_documents": [
+              "Điều 7, khoản 2: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với hành vi 'Chở người ngồi trên xe không đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" hoặc đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" không cài quai đúng quy cách, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người có hành vi vi phạm pháp luật'"
+            ],
+            "reasoning": "Phát hiện mức phạt tương tự cho người được chở không đội mũ bảo hiểm. Cần lưu ý các trường hợp ngoại lệ như chở trẻ em dưới 6 tuổi"
+          }
+        ],
+        "final_answer": "Theo Điều 7, khoản 2 Nghị định 168, người điều khiển xe máy không đội mũ bảo hiểm hoặc đội không đúng quy cách sẽ bị phạt từ 400.000 đồng đến 600.000 đồng. Mức phạt tương tự áp dụng cho người được chở không đội mũ bảo hiểm, trừ các trường hợp đặc biệt như chở trẻ em dưới 6 tuổi hoặc người bệnh đi cấp cứu."
+      },
+      {
+        "question": "Nếu tôi vừa vượt đèn đỏ vừa không có bằng lái xe máy, tôi sẽ bị phạt như thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt cho từng hành vi vi phạm: vượt đèn đỏ và không có bằng lái xe",
+        "iterations": [
+          {
+            "query": "Mức phạt vượt đèn đỏ xe máy",
+            "retrieved_documents": [
+              "Điều 7, khoản 7: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi 'Không chấp hành hiệu lệnh của đèn tín hiệu giao thông'"
+            ],
+            "reasoning": "Xác định được mức phạt cho hành vi vượt đèn đỏ. Cần tìm thêm thông tin về việc không có bằng lái"
+          },
+          {
+            "query": "Mức phạt không có bằng lái xe máy",
+            "retrieved_documents": [
+              "Điều 18, khoản 5: Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 không có giấy phép lái xe hoặc sử dụng giấy phép lái xe không hợp lệ"
+            ],
+            "reasoning": "Tìm thấy mức phạt cho việc không có bằng lái xe máy. Cần kiểm tra xem có hình thức xử phạt bổ sung không"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung khi vi phạm giao thông không có bằng lái",
+            "retrieved_documents": [
+              "Điều 47, khoản 3: Trong trường hợp có nhiều hành vi vi phạm, sẽ bị xử phạt theo từng hành vi cụ thể"
+            ],
+            "reasoning": "Hiểu rõ sẽ bị phạt riêng cho từng hành vi vi phạm"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, bạn sẽ bị xử phạt như sau: 1) Vượt đèn đỏ: Phạt từ 4.000.000 đồng đến 6.000.000 đồng (Điều 7, khoản 7); 2) Không có bằng lái xe máy: Phạt từ 2.000.000 đồng đến 4.000.000 đồng (Điều 18, khoản 5). Tổng mức phạt sẽ là từ 6.000.000 đồng đến 10.000.000 đồng, và có thể bị áp dụng các hình thức xử phạt bổ sung như tạm giữ phương tiện."
+      },
+      {
+        "question": "Xe tải chở hàng vượt quá 50% trọng tải quy định sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt và các hình thức xử phạt cho việc chở hàng vượt quá trọng tải",
+        "iterations": [
+          {
+            "query": "Mức phạt xe chở hàng vượt quá 50% trọng tải",
+            "retrieved_documents": [
+              "Điều 21, khoản 5: Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với việc điều khiển xe chở hàng vượt trọng tải trên 30% đến 50%"
+            ],
+            "reasoning": "Tìm thấy mức phạt cụ thể cho việc chở hàng vượt trọng tải. Cần tìm thêm thông tin về hình thức xử phạt bổ sung"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung khi chở hàng quá tải",
+            "retrieved_documents": [
+              "Điều 47, khoản 5: Buộc hạ phần hàng quá tải tại nơi phát hiện vi phạm",
+              "Điều 21, khoản 13: Bị trừ điểm giấy phép lái xe 02 điểm cho hành vi này"
+            ],
+            "reasoning": "Xác định được biện pháp khắc phục hậu quả và hình thức xử phạt bổ sung"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, xe chở hàng vượt quá 50% trọng tải quy định sẽ bị xử phạt như sau: 1) Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng (Điều 21, khoản 5); 2) Bị buộc hạ bớt hàng xuống tại nơi phát hiện vi phạm; 3) Bị trừ 02 điểm trên giấy phép lái xe (Điều 21, khoản 13). Ngoài ra, có thể bị áp dụng các hình thức xử phạt bổ sung khác theo quy định."
+      },
+      {
+        "question": "Tôi điều khiển xe máy trong tình trạng có chất ma túy sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt và hình thức xử phạt cho việc điều khiển xe có chất ma túy",
+        "iterations": [
+          {
+            "query": "Xử phạt điều khiển xe có chất ma túy",
+            "retrieved_documents": [
+              "Điều 7, khoản 9: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi điều khiển xe trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng"
+            ],
+            "reasoning": "Xác định được mức phạt tiền cho hành vi. Cần tìm thêm thông tin về các hình thức xử phạt bổ sung"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung khi điều khiển xe có chất ma túy",
+            "retrieved_documents": [
+              "Điều 7, khoản 12: Tịch thu phương tiện đối với một số hành vi vi phạm nghiêm trọng",
+              "Điều 7, khoản 12: Tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng"
+            ],
+            "reasoning": "Phát hiện các hình thức xử phạt bổ sung nghiêm khắc, bao gồm tịch thu phương tiện và tước giấy phép lái xe"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, việc điều khiển xe máy có chất ma túy sẽ bị xử phạt rất nghiêm khắc: 1) Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng (Điều 7, khoản 9); 2) Bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng; 3) Có thể bị tịch thu phương tiện. Ngoài ra, bạn còn có thể bị xử lý hình sự nếu vi phạm nghiêm trọng."
+      },
+      {
+        "question": "Tôi chở trẻ em trên xe máy không đúng quy định sẽ bị phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về việc chở trẻ em trên xe máy và mức xử phạt",
+        "iterations": [
+          {
+            "query": "Quy định chở trẻ em trên xe máy",
+            "retrieved_documents": [
+              "Điều 7, khoản 2: Chở theo 02 người trên xe, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật, áp giải người có hành vi vi phạm pháp luật"
+            ],
+            "reasoning": "Xác định được quy định về số lượng người được chở và các trường hợp ngoại lệ. Cần tìm thêm thông tin về việc chở trẻ em không đúng quy định"
+          },
+          {
+            "query": "Mức phạt chở trẻ em không đúng quy định",
+            "retrieved_documents": [
+              "Điều 12, khoản 1: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người được chở trên xe sử dụng ô (dù)",
+              "Điều 7, khoản 2: Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với việc chở quá 02 người trên xe"
+            ],
+            "reasoning": "Tìm thấy các mức phạt khác nhau tùy theo cách thức vi phạm khi chở trẻ em"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, việc chở trẻ em trên xe máy không đúng quy định có thể bị phạt như sau: 1) Chở quá 02 người: Phạt từ 400.000 đồng đến 600.000 đồng (Điều 7, khoản 2); 2) Sử dụng ô che nắng khi chở: Phạt từ 100.000 đồng đến 200.000 đồng (Điều 12, khoản 1). Lưu ý có các trường hợp ngoại lệ như chở trẻ em dưới 12 tuổi, người bệnh đi cấp cứu."
+      },
+      {
+        "question": "Tôi và nhóm bạn đua xe máy trên đường sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về hành vi đua xe trái phép và mức xử phạt",
+        "iterations": [
+          {
+            "query": "Xử phạt hành vi đua xe trái phép",
+            "retrieved_documents": [
+              "Điều 35, khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi tụ tập để cổ vũ, giúp sức, xúi giục hành vi điều khiển xe chạy quá tốc độ, lạng lách, đánh võng, đuổi nhau trên đường"
+            ],
+            "reasoning": "Tìm thấy mức phạt cho hành vi tụ tập cổ vũ. Cần tìm thêm thông tin về mức phạt cho người trực tiếp đua xe"
+          },
+          {
+            "query": "Mức phạt cho người trực tiếp đua xe",
+            "retrieved_documents": [
+              "Điều 7, khoản 9: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi điều khiển xe lạng lách, đánh võng trên đường bộ",
+              "Điều 35, khoản 3: Tịch thu phương tiện đối với người điều khiển phương tiện đua xe trái phép"
+            ],
+            "reasoning": "Xác định được mức phạt và hình thức xử phạt bổ sung nghiêm khắc cho hành vi đua xe"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, hành vi đua xe trái phép sẽ bị xử phạt rất nghiêm khắc: 1) Người trực tiếp đua xe: Phạt từ 8.000.000 đồng đến 10.000.000 đồng (Điều 7, khoản 9) và bị tịch thu phương tiện (Điều 35, khoản 3); 2) Người cổ vũ, tụ tập: Phạt từ 1.000.000 đồng đến 2.000.000 đồng (Điều 35, khoản 1). Ngoài ra, còn có thể bị xử lý hình sự nếu gây hậu quả nghiêm trọng."
+      },
+      {
+        "question": "Tôi và nhóm bạn đua xe máy trên đường sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về hành vi đua xe trái phép và mức xử phạt",
+        "iterations": [
+          {
+            "query": "Xử phạt hành vi đua xe trái phép",
+            "retrieved_documents": [
+              "Điều 35, khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi tụ tập để cổ vũ, giúp sức, xúi giục hành vi điều khiển xe chạy quá tốc độ, lạng lách, đánh võng, đuổi nhau trên đường"
+            ],
+            "reasoning": "Tìm thấy mức phạt cho hành vi tụ tập cổ vũ. Cần tìm thêm thông tin về mức phạt cho người trực tiếp đua xe"
+          },
+          {
+            "query": "Mức phạt cho người trực tiếp đua xe",
+            "retrieved_documents": [
+              "Điều 7, khoản 9: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi điều khiển xe lạng lách, đánh võng trên đường bộ",
+              "Điều 35, khoản 3: Tịch thu phương tiện đối với người điều khiển phương tiện đua xe trái phép"
+            ],
+            "reasoning": "Xác định được mức phạt và hình thức xử phạt bổ sung nghiêm khắc cho hành vi đua xe"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, hành vi đua xe trái phép sẽ bị xử phạt rất nghiêm khắc: 1) Người trực tiếp đua xe: Phạt từ 8.000.000 đồng đến 10.000.000 đồng (Điều 7, khoản 9) và bị tịch thu phương tiện (Điều 35, khoản 3); 2) Người cổ vũ, tụ tập: Phạt từ 1.000.000 đồng đến 2.000.000 đồng (Điều 35, khoản 1). Ngoài ra, còn có thể bị xử lý hình sự nếu gây hậu quả nghiêm trọng."
+      },
+      {
+        "question": "Tôi sử dụng điện thoại khi điều khiển xe máy sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về việc sử dụng điện thoại khi lái xe và mức xử phạt",
+        "iterations": [
+          {
+            "query": "Quy định sử dụng điện thoại khi lái xe máy",
+            "retrieved_documents": [
+              "Điều 7, khoản 4: Người đang điều khiển xe sử dụng ô (dù), thiết bị âm thanh, dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác"
+            ],
+            "reasoning": "Xác định được hành vi vi phạm. Cần tìm mức phạt cụ thể"
+          },
+          {
+            "query": "Mức phạt sử dụng điện thoại khi lái xe máy",
+            "retrieved_documents": [
+              "Điều 7, khoản 4: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng cho hành vi sử dụng điện thoại khi điều khiển xe"
+            ],
+            "reasoning": "Tìm thấy mức phạt cụ thể. Cần kiểm tra xem có hình thức xử phạt bổ sung không"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, việc sử dụng điện thoại khi điều khiển xe máy sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng (Điều 7, khoản 4). Đây là hành vi vi phạm nghiêm trọng về an toàn giao thông, có thể gây nguy hiểm cho bản thân và những người xung quanh."
+      },
+      {
+        "question": "Tôi điều khiển xe máy không có giấy đăng ký xe sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về việc điều khiển xe không có giấy đăng ký và mức xử phạt",
+        "iterations": [
+          {
+            "query": "Mức phạt xe không có giấy đăng ký",
+            "retrieved_documents": [
+              "Điều 14, khoản 2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi sử dụng xe không có chứng nhận đăng ký xe hoặc sử dụng chứng nhận đăng ký xe đã hết hạn sử dụng"
+            ],
+            "reasoning": "Xác định được mức phạt cho việc không có giấy đăng ký xe. Cần tìm thêm thông tin về các hình thức xử phạt bổ sung"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung khi không có giấy đăng ký xe",
+            "retrieved_documents": [
+              "Điều 14, khoản 5: Trường hợp không có chứng nhận đăng ký xe hoặc sử dụng chứng nhận đăng ký xe không do cơ quan có thẩm quyền cấp, không đúng số khung, số động cơ thì có thể bị tịch thu phương tiện"
+            ],
+            "reasoning": "Phát hiện hình thức xử phạt bổ sung nghiêm khắc, có thể dẫn đến tịch thu phương tiện"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, việc điều khiển xe máy không có giấy đăng ký sẽ bị xử phạt như sau: 1) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng (Điều 14, khoản 2); 2) Có nguy cơ bị tịch thu phương tiện nếu giấy đăng ký không do cơ quan có thẩm quyền cấp hoặc không đúng số khung, số động cơ (Điều 14, khoản 5). Ngoài ra, còn có thể bị áp dụng các hình thức xử phạt bổ sung khác."
+      },
+      {
+        "question": "Tôi vận chuyển hàng hóa nguy hiểm không đúng quy định sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về việc vận chuyển hàng hóa nguy hiểm và mức xử phạt",
+        "iterations": [
+          {
+            "query": "Xử phạt vận chuyển hàng hóa nguy hiểm",
+            "retrieved_documents": [
+              "Điều 23, khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vận chuyển hàng hóa nguy hiểm mà không làm sạch hoặc không bóc (xóa) biểu trưng nguy hiểm"
+            ],
+            "reasoning": "Xác định được mức phạt cho một hành vi vi phạm. Cần tìm thêm thông tin về các vi phạm khác liên quan đến hàng nguy hiểm"
+          },
+          {
+            "query": "Các vi phạm khác khi vận chuyển hàng hóa nguy hiểm",
+            "retrieved_documents": [
+              "Điều 23, khoản 3: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi vận chuyển hàng nguy hiểm mà xe không dán nhãn, biểu trưng nhận diện hàng hóa nguy hiểm",
+              "Điều 23, khoản 4: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng khi vận chuyển hàng nguy hiểm như thuốc nổ, khí đốt, xăng, dầu qua hầm dài từ 100 mét trở lên"
+            ],
+            "reasoning": "Tìm thấy các mức phạt khác nhau tùy theo mức độ và loại hàng hóa nguy hiểm"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung",
+            "retrieved_documents": [
+              "Điều 23, khoản 6: Nếu gây ô nhiễm môi trường sẽ phải áp dụng các biện pháp khắc phục hậu quả"
+            ],
+            "reasoning": "Phát hiện thêm hình thức xử phạt bổ sung liên quan đến ô nhiễm môi trường"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, việc vận chuyển hàng hóa nguy hiểm không đúng quy định sẽ bị xử phạt như sau: 1) Không làm sạch biểu trưng nguy hiểm: Phạt từ 1.000.000 đồng đến 2.000.000 đồng; 2) Không dán nhãn, biểu trưng nhận diện: Phạt từ 4.000.000 đồng đến 6.000.000 đồng; 3) Vận chuyển hàng nguy hiểm qua hầm dài: Phạt từ 6.000.000 đồng đến 8.000.000 đồng. Nếu gây ô nhiễm môi trường, còn phải áp dụng các biện pháp khắc phục hậu quả."
+      },
+      {
+        "question": "Xe cứu hộ không đúng quy định sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về việc sử dụng xe cứu hộ và các vi phạm có thể xảy ra",
+        "iterations": [
+          {
+            "query": "Quy định về xe cứu hộ",
+            "retrieved_documents": [
+              "Điều 29, khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng nếu không lắp thiết bị ghi nhận hình ảnh người lái xe hoặc lắp nhưng không hoạt động"
+            ],
+            "reasoning": "Xác định được một mức phạt liên quan đến thiết bị ghi hình. Cần tìm thêm thông tin về các vi phạm khác"
+          },
+          {
+            "query": "Các vi phạm khác của xe cứu hộ",
+            "retrieved_documents": [
+              "Điều 29, khoản 2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng nếu không có dụng cụ, thiết bị chuyên dùng để cứu hộ, hỗ trợ cứu hộ theo quy định",
+              "Điều 29, khoản 3: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng nếu không lắp thiết bị giám sát hành trình hoặc lắp nhưng không hoạt động"
+            ],
+            "reasoning": "Tìm thấy các mức phạt khác nhau cho các vi phạm khác nhau của xe cứu hộ"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung",
+            "retrieved_documents": [
+              "Điều 29, khoản 4: Bị trừ 02 điểm giấy phép lái xe cho một số hành vi vi phạm"
+            ],
+            "reasoning": "Phát hiện thêm hình thức xử phạt bổ sung liên quan đến điểm giấy phép lái xe"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, xe cứu hộ vi phạm quy định sẽ bị xử phạt như sau: 1) Không lắp thiết bị ghi hình: Phạt từ 1.000.000 đồng đến 2.000.000 đồng; 2) Thiếu dụng cụ cứu hộ: Phạt từ 2.000.000 đồng đến 3.000.000 đồng; 3) Không lắp thiết bị giám sát hành trình: Phạt từ 3.000.000 đồng đến 5.000.000 đồng. Ngoài ra, có thể bị trừ 02 điểm giấy phép lái xe và áp dụng các hình thức xử phạt bổ sung khác."
+      },
+      {
+        "question": "Xe khách không lắp thiết bị giám sát hành trình sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về việc lắp thiết bị giám sát hành trình cho xe kinh doanh vận tải",
+        "iterations": [
+          {
+            "query": "Quy định lắp thiết bị giám sát hành trình xe khách",
+            "retrieved_documents": [
+              "Điều 26, khoản 7: Phạt tiền từ 5.000.000 đồng đến 6.000.000 đồng đối với cơ sở kinh doanh vận tải không thực hiện việc cung cấp, cập nhật, truyền, lưu trữ, quản lý thông tin, dữ liệu từ thiết bị giám sát hành trình"
+            ],
+            "reasoning": "Xác định được mức phạt cho việc không quản lý dữ liệu thiết bị. Cần tìm thêm thông tin về việc không lắp thiết bị"
+          },
+          {
+            "query": "Mức phạt không lắp thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 26, khoản 7: Phạt tiền từ 5.000.000 đồng đến 6.000.000 đồng nếu sử dụng phương tiện kinh doanh vận tải không lắp thiết bị giám sát hành trình hoặc lắp nhưng thiết bị không hoạt động, không đúng quy chuẩn"
+            ],
+            "reasoning": "Tìm thấy mức phạt cụ thể cho việc không lắp hoặc lắp không đúng quy cách thiết bị giám sát"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung",
+            "retrieved_documents": [
+              "Điều 26, khoản 12: Ngoài việc bị phạt tiền, còn có thể bị tước quyền sử dụng phù hiệu từ 01 tháng đến 03 tháng"
+            ],
+            "reasoning": "Phát hiện hình thức xử phạt bổ sung là tước phù hiệu hoạt động"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, xe khách không lắp thiết bị giám sát hành trình sẽ bị: 1) Phạt tiền từ 5.000.000 đồng đến 6.000.000 đồng (Điều 26, khoản 7); 2) Có thể bị tước quyền sử dụng phù hiệu từ 01 đến 03 tháng (Điều 26, khoản 12). Mức phạt này áp dụng cho cả trường hợp không lắp thiết bị và lắp thiết bị không hoạt động đúng quy cách."
+      },
+      {
+        "question": "Xe đưa đón trẻ em mầm non không có thiết bị cảnh báo chống bỏ quên sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về các thiết bị an toàn cho xe chở trẻ em mầm non",
+        "iterations": [
+          {
+            "query": "Quy định thiết bị an toàn xe chở trẻ em",
+            "retrieved_documents": [
+              "Điều 26, khoản 6: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với xe ô tô kinh doanh vận tải chở trẻ em mầm non không có thiết bị ghi nhận hình ảnh trẻ em hoặc không có thiết bị cảnh báo, chống bỏ quên trẻ em"
+            ],
+            "reasoning": "Xác định được mức phạt cho việc thiếu thiết bị an toàn. Cần tìm thêm thông tin về các yêu cầu khác"
+          },
+          {
+            "query": "Các yêu cầu khác về xe chở trẻ em",
+            "retrieved_documents": [
+              "Điều 26, khoản 6: Xe chở trẻ em phải có màu sơn và biển báo dấu hiệu nhận biết là xe chở trẻ em mầm non",
+              "Điều 27: Xe phải có dây đai an toàn phù hợp với lứa tuổi, ghế ngồi phù hợp với trẻ em"
+            ],
+            "reasoning": "Phát hiện thêm các yêu cầu bắt buộc khác cho xe chở trẻ em"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung",
+            "retrieved_documents": [
+              "Điều 26, khoản 12: Ngoài việc bị phạt tiền, có thể bị tước quyền sử dụng phù hiệu từ 01 tháng đến 03 tháng"
+            ],
+            "reasoning": "Xác định được hình thức xử phạt bổ sung"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, xe chở trẻ em mầm non không có thiết bị cảnh báo chống bỏ quên sẽ bị: 1) Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng (Điều 26, khoản 6); 2) Có thể bị tước quyền sử dụng phù hiệu từ 01 đến 03 tháng. Ngoài ra, xe còn phải đáp ứng các yêu cầu về màu sơn, biển báo, dây đai an toàn và ghế ngồi phù hợp với trẻ em."
+      },
+      {
+        "question": "Tôi vận chuyển hàng siêu trọng không đúng giấy phép lưu hành sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về việc vận chuyển hàng siêu trường, siêu trọng",
+        "iterations": [
+          {
+            "query": "Mức phạt vận chuyển hàng siêu trọng không đúng giấy phép",
+            "retrieved_documents": [
+              "Điều 22, khoản 1: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi chở hàng siêu trường, siêu trọng không có báo hiệu kích thước của hàng",
+              "Điều 22, khoản 2: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng nếu kích thước bao ngoài xe vượt quá quy định trong giấy phép"
+            ],
+            "reasoning": "Xác định được các mức phạt cho việc vận chuyển hàng siêu trọng không đúng quy định"
+          },
+          {
+            "query": "Các vi phạm khác về vận chuyển hàng siêu trọng",
+            "retrieved_documents": [
+              "Điều 22, khoản 3: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng nếu: Không có giấy phép lưu hành Tổng trọng lượng vượt quá quy định Không đúng tuyến đường Không đúng loại hàng"
+            ],
+            "reasoning": "Tìm thấy các mức phạt cao hơn cho các vi phạm nghiêm trọng hơn"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung",
+            "retrieved_documents": [
+              "Điều 22, khoản 4: Nếu gây hư hại cầu, đường sẽ phải khôi phục lại tình trạng ban đầu",
+              "Điều 22, khoản 6: Bị trừ 04 điểm giấy phép lái xe"
+            ],
+            "reasoning": "Phát hiện thêm các hình thức xử phạt bổ sung"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, vận chuyển hàng siêu trọng không đúng giấy phép sẽ bị: 1) Phạt từ 2.000.000 đồng đến 3.000.000 đồng nếu không báo hiệu kích thước; 2) Phạt từ 8.000.000 đồng đến 10.000.000 đồng nếu kích thước vượt quá giấy phép; 3) Phạt từ 13.000.000 đồng đến 15.000.000 đồng nếu không có giấy phép hoặc vi phạm các quy định khác. Ngoài ra, còn có thể phải khôi phục hư hại (nếu có) và bị trừ 04 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Xe máy chuyên dùng không có giấy phép hoạt động sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm quy định về việc sử dụng xe máy chuyên dùng và các mức phạt liên quan",
+        "iterations": [
+          {
+            "query": "Quy định về xe máy chuyên dùng",
+            "retrieved_documents": [
+              "Điều 16, khoản 1: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với hành vi không gắn biển số (đối với loại xe có quy định phải gắn biển số)"
+            ],
+            "reasoning": "Xác định được mức phạt cho việc không gắn biển số. Cần tìm thêm thông tin về các vi phạm khác"
+          },
+          {
+            "query": "Các vi phạm khác của xe máy chuyên dùng",
+            "retrieved_documents": [
+              "Điều 16, khoản 2: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi:Hoạt động không đúng phạm vi quy địnhKhông có giấy chứng nhận kiểm địnhKhông có chứng nhận đăng ký xeGiấy đăng ký xe không đúng quy định"
+            ],
+            "reasoning": "Tìm thấy các mức phạt khác nhau cho các vi phạm của xe máy chuyên dùng"
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung",
+            "retrieved_documents": [
+              "Điều 16, khoản 3: Tịch thu phương tiện đối với xe máy chuyên dùng sản xuất, lắp ráp hoặc cải tạo trái quy định"
+            ],
+            "reasoning": "Phát hiện hình thức xử phạt bổ sung nghiêm khắc là tịch thu phương tiện"
+          }
+        ],
+        "final_answer": "Theo Nghị định 168, xe máy chuyên dùng không có giấy phép hoạt động sẽ bị: 1) Phạt tiền từ 800.000 đồng đến 1.000.000 đồng nếu không gắn biển số; 2) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng nếu hoạt động không đúng phạm vi, không có giấy chứng nhận kiểm định hoặc đăng ký; 3) Có thể bị tịch thu phương tiện nếu xe được sản xuất, lắp ráp hoặc cải tạo trái quy định."
+      },
+      {
+        "question": "Mức phạt đối với hành vi điều khiển xe chở hàng vượt quá chiều cao cho phép là bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt áp dụng đối với hành vi chở hàng vượt quá chiều cao quy định, tìm điều khoản liên quan trong Nghị định 168.",
+        "iterations": [
+          {
+            "query": "mức phạt chở hàng vượt quá chiều cao quy định",
+            "retrieved_documents": [
+              "Điều 21, Khoản 4: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi chở hàng vượt quá chiều cao xếp hàng cho phép đối với xe ô tô tải."
+            ],
+            "reasoning": "Thông tin đã đủ để xác định mức phạt cho hành vi này, không cần thêm truy vấn."
+          }
+        ],
+        "final_answer": "Mức phạt đối với hành vi chở hàng vượt quá chiều cao xếp hàng cho phép là từ 2.000.000 đồng đến 3.000.000 đồng, theo Điều 21, Khoản 4 của Nghị định 168."
+      },
+      {
+        "question": "Mức phạt khi điều khiển xe tải chở hàng vượt trọng tải trên 50% đến 100% là bao nhiêu?",
+        "initial_reasoning": "Cần tìm quy định về mức phạt khi chở hàng vượt trọng tải trên 50% đến 100%.",
+        "iterations": [
+          {
+            "query": "phạt chở hàng vượt trọng tải trên 50%",
+            "retrieved_documents": [
+              "Điều 21, Khoản 6: Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với hành vi chở hàng vượt trọng tải trên 50% đến 100%."
+            ],
+            "reasoning": "Thông tin đủ để xác định mức phạt, không cần thêm truy vấn."
+          }
+        ],
+        "final_answer": "Mức phạt khi điều khiển xe tải chở hàng vượt trọng tải trên 50% đến 100% là từ 5.000.000 đồng đến 7.000.000 đồng theo Điều 21, Khoản 6 của Nghị định 168."
+      },
+      {
+        "question": "Điều khiển xe chở hàng vượt trọng tải trên 150% bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm quy định về mức phạt khi chở hàng vượt trọng tải trên 150%.",
+        "iterations": [
+          {
+            "query": "phạt chở hàng vượt trọng tải trên 150%",
+            "retrieved_documents": [
+              "Điều 21, Khoản 8: Phạt tiền từ 8.000.000 đồng đến 12.000.000 đồng đối với hành vi chở hàng vượt trọng tải trên 150%."
+            ],
+            "reasoning": "Mức phạt đã được xác định rõ, không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt khi điều khiển xe chở hàng vượt trọng tải trên 150% là từ 8.000.000 đồng đến 12.000.000 đồng theo Điều 21, Khoản 8 của Nghị định 168."
+      },
+      {
+        "question": "Điều khiển xe chở hàng vượt trọng tải trên 100% đến 150% bị trừ bao nhiêu điểm giấy phép lái xe?",
+        "initial_reasoning": "Cần tìm thông tin về mức trừ điểm giấy phép lái xe khi chở hàng vượt trọng tải trên 100% đến 150%.",
+        "iterations": [
+          {
+            "query": "trừ điểm GPLX chở hàng vượt trọng tải trên 100%",
+            "retrieved_documents": [
+              "Điều 21, Khoản 13, Điểm đ: Hành vi chở hàng vượt trọng tải trên 100% đến 150% bị trừ 8 điểm giấy phép lái xe."
+            ],
+            "reasoning": "Thông tin đã rõ ràng, không cần thêm truy vấn."
+          }
+        ],
+        "final_answer": "Điều khiển xe chở hàng vượt trọng tải trên 100% đến 150% bị trừ 8 điểm giấy phép lái xe theo Điều 21, Khoản 13, Điểm đ của Nghị định 168."
+      },
+      {
+        "question": "Mức phạt khi điều khiển xe tải không có thiết bị giám sát hành trình là bao nhiêu?",
+        "initial_reasoning": "Cần xác định quy định về mức phạt khi xe tải không có thiết bị giám sát hành trình.",
+        "iterations": [
+          {
+            "query": "phạt xe tải không có thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 21, Khoản 5, Điểm c: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với xe tải tham gia kinh doanh vận tải hàng hoá không lắp thiết bị giám sát hành trình."
+            ],
+            "reasoning": "Đã có thông tin về mức phạt, không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt khi điều khiển xe tải không có thiết bị giám sát hành trình là từ 3.000.000 đồng đến 5.000.000 đồng theo Điều 21, Khoản 5, Điểm c của Nghị định 168."
+      },
+      {
+        "question": "Mức phạt khi điều khiển xe tải nhận hàng trên đường cao tốc?",
+        "initial_reasoning": "Cần tìm thông tin về mức phạt cho hành vi nhận hàng trên đường cao tốc.",
+        "iterations": [
+          {
+            "query": "phạt nhận hàng trên đường cao tốc",
+            "retrieved_documents": [
+              "Điều 21, Khoản 9: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với hành vi nhận, trả hàng trên đường cao tốc."
+            ],
+            "reasoning": "Mức phạt đã được xác định rõ, không cần thêm truy vấn."
+          }
+        ],
+        "final_answer": "Mức phạt khi điều khiển xe tải nhận hàng trên đường cao tốc là từ 10.000.000 đồng đến 12.000.000 đồng theo Điều 21, Khoản 9 của Nghị định 168."
+      },
+      {
+        "question": "Mức phạt khi chở hàng vượt chiều dài thùng xe là bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt khi chở hàng vượt chiều dài thùng xe theo Nghị định 168.",
+        "iterations": [
+          {
+            "query": "phạt chở hàng vượt chiều dài thùng xe",
+            "retrieved_documents": [],
+            "reasoning": "Không tìm thấy thông tin trực tiếp. Cần thử với cụm từ 'vượt quá giới hạn chiều dài'."
+          },
+          {
+            "query": "phạt chở hàng vượt quá giới hạn chiều dài",
+            "retrieved_documents": [
+              "Điều 21, Khoản 4, Điểm b: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi chở hàng vượt quá chiều dài thùng xe trên 10%."
+            ],
+            "reasoning": "Tìm thấy mức phạt nhưng chưa biết có quy định riêng cho từng mức vượt chiều dài hay không. Cần kiểm tra thêm."
+          },
+          {
+            "query": "mức phạt chở hàng vượt quá chiều dài trên 20%",
+            "retrieved_documents": [
+              "Điều 21, Khoản 6: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng nếu vượt quá chiều dài thùng xe trên 20%."
+            ],
+            "reasoning": "Đã có thông tin cho từng mức vi phạm, có thể kết luận."
+          }
+        ],
+        "final_answer": "Mức phạt khi chở hàng vượt quá chiều dài thùng xe là từ 2.000.000 đồng đến 3.000.000 đồng nếu vượt trên 10%, và từ 4.000.000 đồng đến 6.000.000 đồng nếu vượt trên 20% theo Điều 21 của Nghị định 168."
+      },
+      {
+        "question": "Điều khiển xe tải chở hàng vượt trọng tải trên 120% có bị tước quyền sử dụng GPLX không?",
+        "initial_reasoning": "Cần xác định xem hành vi này có bị tước quyền sử dụng GPLX không và mức độ xử lý.",
+        "iterations": [
+          {
+            "query": "tước GPLX chở hàng vượt trọng tải",
+            "retrieved_documents": [],
+            "reasoning": "Không tìm thấy thông tin cụ thể về mức trọng tải 120%. Cần thu hẹp phạm vi tìm kiếm."
+          },
+          {
+            "query": "chở hàng vượt trọng tải trên 100% bị tước GPLX không?",
+            "retrieved_documents": [
+              "Điều 21, Khoản 10: Hành vi chở hàng vượt trọng tải trên 100% đến 150% bị tước GPLX từ 1 đến 3 tháng."
+            ],
+            "reasoning": "Xác định rằng hành vi chở hàng vượt trọng tải trên 120% nằm trong phạm vi bị tước GPLX theo Khoản 10."
+          }
+        ],
+        "final_answer": "Điều khiển xe tải chở hàng vượt trọng tải trên 120% bị tước quyền sử dụng GPLX từ 1 đến 3 tháng theo Điều 21, Khoản 10 của Nghị định 168."
+      },
+      {
+        "question": "Mức phạt khi chở hàng vượt chiều cao và vượt trọng tải cùng lúc là bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt cho cả hai vi phạm: vượt chiều cao và vượt trọng tải.",
+        "iterations": [
+          {
+            "query": "phạt chở hàng vượt chiều cao",
+            "retrieved_documents": [
+              "Điều 21, Khoản 4: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi chở hàng vượt quá chiều cao."
+            ],
+            "reasoning": "Đã xác định mức phạt cho vượt chiều cao, cần tìm thêm mức phạt cho vượt trọng tải."
+          },
+          {
+            "query": "phạt chở hàng vượt trọng tải",
+            "retrieved_documents": [
+              "Điều 21, Khoản 6: Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng nếu vượt trọng tải trên 50% đến 100%."
+            ],
+            "reasoning": "Đã có mức phạt cho vượt trọng tải. Cần xác định nếu có hình thức xử phạt bổ sung khi vi phạm cả hai lỗi."
+          },
+          {
+            "query": "phạt chở hàng vượt chiều cao và trọng tải cùng lúc",
+            "retrieved_documents": [
+              "Điều 21, Khoản 11: Nếu vi phạm đồng thời nhiều lỗi, tổng mức phạt không vượt quá 1,5 lần mức phạt cao nhất."
+            ],
+            "reasoning": "Cần tính tổng mức phạt theo quy định này."
+          }
+        ],
+        "final_answer": "Mức phạt khi chở hàng vừa vượt chiều cao (2.000.000 - 3.000.000 đồng) vừa vượt trọng tải (5.000.000 - 7.000.000 đồng) sẽ áp dụng tổng mức phạt không vượt quá 1,5 lần mức phạt cao nhất, tức là tối đa 10.500.000 đồng theo Điều 21, Khoản 11 của Nghị định 168."
+      },
+      {
+        "question": "Mức phạt đối với hành vi chở hàng siêu trường, siêu trọng không có báo hiệu kích thước là bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt liên quan đến hành vi chở hàng siêu trường, siêu trọng nhưng không có báo hiệu kích thước theo quy định.",
+        "iterations": [
+          {
+            "query": "Mức phạt chở hàng siêu trường siêu trọng không có báo hiệu kích thước",
+            "retrieved_documents": [
+              "Khoản 1, Điều 22: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi chở hàng siêu trường, siêu trọng không có báo hiệu kích thước của hàng theo quy định."
+            ],
+            "reasoning": "Thông tin thu được cho thấy hành vi này bị phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+          }
+        ],
+        "final_answer": "Mức phạt đối với hành vi chở hàng siêu trường, siêu trọng không có báo hiệu kích thước là từ 2.000.000 đồng đến 3.000.000 đồng theo khoản 1, Điều 22."
+      },
+      {
+        "question": "Nếu chở hàng siêu trường, siêu trọng có giấy phép nhưng kích thước bao ngoài vượt quá quy định thì bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt khi có giấy phép lưu hành hợp lệ nhưng kích thước bao ngoài vượt quá quy định.",
+        "iterations": [
+          {
+            "query": "Mức phạt chở hàng siêu trọng vượt kích thước quy định",
+            "retrieved_documents": [
+              "Khoản 2, Điều 22: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi chở hàng siêu trường, siêu trọng có giấy phép lưu hành còn giá trị sử dụng nhưng kích thước bao ngoài của xe vượt quá quy định trong giấy phép."
+            ],
+            "reasoning": "Xác nhận rằng mức phạt áp dụng là từ 8.000.000 đồng đến 10.000.000 đồng."
+          }
+        ],
+        "final_answer": "Mức phạt cho hành vi chở hàng siêu trường, siêu trọng có giấy phép nhưng kích thước bao ngoài vượt quá quy định là từ 8.000.000 đồng đến 10.000.000 đồng theo khoản 2, Điều 22."
+      },
+      {
+        "question": "Chở hàng siêu trường, siêu trọng không có giấy phép lưu hành bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm thông tin về mức phạt nếu không có giấy phép lưu hành khi chở hàng siêu trường, siêu trọng.",
+        "iterations": [
+          {
+            "query": "Mức phạt chở hàng siêu trọng không có giấy phép lưu hành",
+            "retrieved_documents": [
+              "Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trường, siêu trọng không có giấy phép lưu hành."
+            ],
+            "reasoning": "Mức phạt cho hành vi này là từ 13.000.000 đồng đến 15.000.000 đồng."
+          }
+        ],
+        "final_answer": "Chở hàng siêu trường, siêu trọng không có giấy phép lưu hành bị phạt từ 13.000.000 đồng đến 15.000.000 đồng theo khoản 3, Điều 22."
+      },
+      {
+        "question": "Chở hàng siêu trọng có giấy phép nhưng đi sai tuyến đường quy định có bị phạt không?",
+        "initial_reasoning": "Cần kiểm tra xem việc có giấy phép lưu hành nhưng đi sai tuyến đường có bị xử phạt hay không và mức phạt cụ thể.",
+        "iterations": [
+          {
+            "query": "Mức phạt chở hàng siêu trọng đi sai tuyến đường",
+            "retrieved_documents": [
+              "Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trường, siêu trọng có giấy phép lưu hành còn giá trị sử dụng nhưng đi không đúng tuyến đường quy định."
+            ],
+            "reasoning": "Hành vi này bị xử phạt từ 13.000.000 đồng đến 15.000.000 đồng."
+          }
+        ],
+        "final_answer": "Chở hàng siêu trọng có giấy phép nhưng đi sai tuyến đường quy định bị phạt từ 13.000.000 đồng đến 15.000.000 đồng theo khoản 3, Điều 22."
+      },
+      {
+        "question": "Lái xe vi phạm khi chở hàng siêu trọng có bị trừ điểm giấy phép lái xe không?",
+        "initial_reasoning": "Cần xác định xem hành vi vi phạm khi chở hàng siêu trọng có dẫn đến việc trừ điểm trên giấy phép lái xe hay không.",
+        "iterations": [
+          {
+            "query": "Trừ điểm giấy phép lái xe khi chở hàng siêu trọng",
+            "retrieved_documents": [
+              "Khoản 6, Điều 22: Người thực hiện hành vi vi phạm quy định tại khoản 1 Điều này bị trừ 02 điểm GPLX; khoản 2, khoản 3 bị trừ 04 điểm GPLX."
+            ],
+            "reasoning": "Xác nhận rằng nếu vi phạm khoản 1 sẽ bị trừ 2 điểm, còn vi phạm khoản 2 hoặc 3 sẽ bị trừ 4 điểm."
+          }
+        ],
+        "final_answer": "Lái xe vi phạm khi chở hàng siêu trọng bị trừ điểm GPLX: 02 điểm nếu vi phạm khoản 1, 04 điểm nếu vi phạm khoản 2 hoặc 3 theo khoản 6, Điều 22."
+      },
+      {
+        "question": "Nếu tôi chở hàng siêu trường không có giấy phép lưu hành và còn làm hư hại cầu, đường thì sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hai hành vi: (1) chở hàng siêu trường không có giấy phép lưu hành, (2) gây hư hại cầu, đường.",
+        "iterations": [
+          {
+            "query": "Mức phạt chở hàng siêu trọng không có giấy phép lưu hành",
+            "retrieved_documents": [
+              "Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trường, siêu trọng không có giấy phép lưu hành."
+            ],
+            "reasoning": "Hành vi không có giấy phép lưu hành bị phạt từ 13.000.000 đồng đến 15.000.000 đồng, nhưng chưa có thông tin về xử lý khi gây hư hại cầu, đường."
+          },
+          {
+            "query": "Xử lý khi gây hư hại cầu, đường do vi phạm giao thông",
+            "retrieved_documents": [
+              "Khoản 4, Điều 22: Ngoài việc bị áp dụng hình thức xử phạt, người vi phạm nếu gây hư hại cầu, đường còn bị áp dụng biện pháp khắc phục hậu quả, buộc khôi phục lại tình trạng ban đầu."
+            ],
+            "reasoning": "Ngoài phạt tiền, người vi phạm còn phải khôi phục lại tình trạng cầu, đường như ban đầu."
+          }
+        ],
+        "final_answer": "Nếu chở hàng siêu trường không có giấy phép lưu hành, mức phạt là từ 13.000.000 đồng đến 15.000.000 đồng. Nếu hành vi này gây hư hại cầu, đường, người vi phạm còn phải khôi phục lại tình trạng ban đầu theo khoản 3 và khoản 4, Điều 22."
+      },
+      {
+        "question": "Nếu chở hàng siêu trọng có giấy phép nhưng quá tải trọng và không đúng loại hàng thì bị xử lý thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hai hành vi: (1) chở hàng siêu trọng có giấy phép nhưng vượt quá trọng lượng quy định, (2) chở không đúng loại hàng trong giấy phép.",
+        "iterations": [
+          {
+            "query": "Mức phạt chở hàng siêu trọng có giấy phép nhưng quá tải",
+            "retrieved_documents": [
+              "Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trọng có giấy phép lưu hành nhưng tổng trọng lượng vượt quá quy định."
+            ],
+            "reasoning": "Mức phạt cho hành vi quá tải là từ 13.000.000 đồng đến 15.000.000 đồng. Cần tìm mức phạt nếu chở sai loại hàng."
+          },
+          {
+            "query": "Mức phạt chở hàng siêu trọng sai loại hàng trong giấy phép",
+            "retrieved_documents": [
+              "Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trọng có giấy phép nhưng chở không đúng loại hàng quy định."
+            ],
+            "reasoning": "Hành vi chở sai loại hàng cũng bị phạt từ 13.000.000 đồng đến 15.000.000 đồng, cùng mức với hành vi quá tải."
+          }
+        ],
+        "final_answer": "Nếu chở hàng siêu trọng có giấy phép nhưng vượt quá tải trọng và không đúng loại hàng, mức phạt cho mỗi hành vi là từ 13.000.000 đồng đến 15.000.000 đồng, tổng cộng có thể bị phạt từ 26.000.000 đồng đến 30.000.000 đồng theo khoản 3, Điều 22."
+      },
+      {
+        "question": "Lái xe chở hàng siêu trọng không đúng quy định có thể bị thu hồi giấy phép lưu hành không?",
+        "initial_reasoning": "Cần kiểm tra xem có trường hợp nào lái xe chở hàng siêu trọng bị thu hồi giấy phép lưu hành hay không.",
+        "iterations": [
+          {
+            "query": "Các trường hợp bị thu hồi giấy phép lưu hành khi chở hàng siêu trọng",
+            "retrieved_documents": [
+              "Khoản 5, Điều 22: Ngoài việc bị xử phạt, người thực hiện hành vi vi phạm tại điểm a khoản 3 bị thu hồi giấy phép lưu hành hết giá trị sử dụng hoặc giấy phép lưu hành không do cơ quan có thẩm quyền cấp."
+            ],
+            "reasoning": "Hành vi chở hàng siêu trọng không có giấy phép hoặc sử dụng giấy phép hết hạn, không hợp lệ có thể bị thu hồi giấy phép lưu hành."
+          },
+          {
+            "query": "Điểm a, Khoản 3, Điều 22 quy định gì?",
+            "retrieved_documents": [
+              "Điểm a, Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trọng không có giấy phép lưu hành hoặc sử dụng giấy phép lưu hành không hợp lệ."
+            ],
+            "reasoning": "Xác nhận rằng nếu chở hàng siêu trọng không có giấy phép hoặc dùng giấy phép không hợp lệ thì sẽ bị thu hồi giấy phép lưu hành."
+          }
+        ],
+        "final_answer": "Lái xe chở hàng siêu trọng không có giấy phép lưu hành hoặc sử dụng giấy phép hết hạn, không hợp lệ sẽ bị thu hồi giấy phép lưu hành theo khoản 5, Điều 22."
+      },
+      {
+        "question": "Nếu tôi chở hàng siêu trọng có giấy phép hợp lệ nhưng vượt quá trọng lượng quy định và gây hư hại đường thì bị xử lý như thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt cho hai hành vi: (1) chở hàng siêu trọng có giấy phép nhưng vượt quá trọng lượng, (2) gây hư hại đường.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi chở hàng siêu trọng có giấy phép nhưng vượt quá trọng lượng",
+            "retrieved_documents": [
+              "Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trọng có giấy phép lưu hành còn giá trị nhưng tổng trọng lượng vượt quá quy định."
+            ],
+            "reasoning": "Hành vi quá tải bị phạt từ 13.000.000 đồng đến 15.000.000 đồng. Tiếp theo, cần tìm thông tin về trách nhiệm khi gây hư hại đường."
+          },
+          {
+            "query": "Xử lý khi vi phạm giao thông gây hư hại cầu, đường",
+            "retrieved_documents": [
+              "Khoản 4, Điều 22: Ngoài việc bị xử phạt, người vi phạm nếu gây hư hại cầu, đường còn bị áp dụng biện pháp khắc phục hậu quả, buộc khôi phục lại tình trạng ban đầu."
+            ],
+            "reasoning": "Người vi phạm ngoài bị phạt tiền còn phải chịu trách nhiệm khắc phục hậu quả khi gây hư hại cầu, đường."
+          }
+        ],
+        "final_answer": "Chở hàng siêu trọng có giấy phép nhưng vượt quá trọng lượng bị phạt từ 13.000.000 đồng đến 15.000.000 đồng. Nếu gây hư hại đường, người vi phạm phải khắc phục lại tình trạng ban đầu theo khoản 3 và khoản 4, Điều 22."
+      },
+      {
+        "question": "Nếu chở hàng siêu trọng đi sai tuyến đường và không đúng loại hàng trong giấy phép thì bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hai hành vi: (1) chở hàng siêu trọng có giấy phép nhưng đi sai tuyến đường, (2) chở không đúng loại hàng theo giấy phép.",
+        "iterations": [
+          {
+            "query": "Mức phạt chở hàng siêu trọng có giấy phép nhưng đi sai tuyến đường",
+            "retrieved_documents": [
+              "Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trọng có giấy phép nhưng đi không đúng tuyến đường quy định."
+            ],
+            "reasoning": "Mức phạt cho hành vi đi sai tuyến đường là từ 13.000.000 đồng đến 15.000.000 đồng. Cần tìm tiếp mức phạt cho hành vi chở sai loại hàng."
+          },
+          {
+            "query": "Mức phạt chở hàng siêu trọng không đúng loại hàng trong giấy phép",
+            "retrieved_documents": [
+              "Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trọng có giấy phép nhưng chở không đúng loại hàng quy định."
+            ],
+            "reasoning": "Hành vi chở sai loại hàng cũng có mức phạt tương tự hành vi đi sai tuyến đường."
+          }
+        ],
+        "final_answer": "Nếu chở hàng siêu trọng đi sai tuyến đường và không đúng loại hàng trong giấy phép, mỗi hành vi bị phạt từ 13.000.000 đồng đến 15.000.000 đồng, tổng mức phạt có thể lên đến 26.000.000 đồng đến 30.000.000 đồng theo khoản 3, Điều 22."
+      },
+      {
+        "question": "Lái xe vi phạm chở hàng siêu trọng có bị trừ điểm giấy phép lái xe không, và mức trừ điểm như thế nào?",
+        "initial_reasoning": "Cần xác định có hay không việc trừ điểm giấy phép lái xe khi vi phạm, và nếu có thì mức trừ điểm cụ thể cho từng hành vi.",
+        "iterations": [
+          {
+            "query": "Có trừ điểm giấy phép lái xe khi vi phạm chở hàng siêu trọng không?",
+            "retrieved_documents": [
+              "Khoản 6, Điều 22: Ngoài việc bị xử phạt, người điều khiển phương tiện vi phạm còn bị trừ điểm giấy phép lái xe."
+            ],
+            "reasoning": "Xác nhận rằng có hình thức trừ điểm giấy phép lái xe khi vi phạm, nhưng chưa rõ mức trừ điểm cụ thể."
+          },
+          {
+            "query": "Mức trừ điểm giấy phép lái xe khi vi phạm chở hàng siêu trọng",
+            "retrieved_documents": [
+              "Khoản 6, Điều 22: Thực hiện hành vi vi phạm tại khoản 1 bị trừ 02 điểm GPLX; vi phạm khoản 2, khoản 3 bị trừ 04 điểm GPLX."
+            ],
+            "reasoning": "Xác định rằng mức trừ điểm là 02 điểm nếu vi phạm khoản 1, và 04 điểm nếu vi phạm khoản 2 hoặc 3."
+          }
+        ],
+        "final_answer": "Lái xe vi phạm chở hàng siêu trọng bị trừ điểm GPLX: 02 điểm nếu vi phạm khoản 1, 04 điểm nếu vi phạm khoản 2 hoặc 3 theo khoản 6, Điều 22."
+      },
+      {
+        "question": "Nếu tôi chở hàng siêu trọng không có giấy phép và giấy phép lái xe của tôi cũng bị trừ điểm, tôi có bị thu hồi giấy phép lưu hành không?",
+        "initial_reasoning": "Cần kiểm tra xem trường hợp nào bị thu hồi giấy phép lưu hành khi vi phạm chở hàng siêu trọng.",
+        "iterations": [
+          {
+            "query": "Các trường hợp bị thu hồi giấy phép lưu hành khi chở hàng siêu trọng",
+            "retrieved_documents": [
+              "Khoản 5, Điều 22: Ngoài việc bị xử phạt, người vi phạm tại điểm a khoản 3 bị thu hồi giấy phép lưu hành hết giá trị sử dụng hoặc giấy phép lưu hành không do cơ quan có thẩm quyền cấp."
+            ],
+            "reasoning": "Cần kiểm tra xem điểm a khoản 3 quy định về hành vi nào để xác định có thuộc trường hợp thu hồi giấy phép lưu hành hay không."
+          },
+          {
+            "query": "Điểm a, Khoản 3, Điều 22 quy định gì?",
+            "retrieved_documents": [
+              "Điểm a, Khoản 3, Điều 22: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng siêu trọng không có giấy phép lưu hành."
+            ],
+            "reasoning": "Xác nhận rằng hành vi chở hàng siêu trọng không có giấy phép thuộc diện bị thu hồi giấy phép lưu hành."
+          }
+        ],
+        "final_answer": "Nếu chở hàng siêu trọng không có giấy phép lưu hành, người vi phạm sẽ bị thu hồi giấy phép lưu hành theo khoản 5, Điều 22."
+      },
+      {
+        "question": "Mức phạt đối với hành vi vận chuyển hàng hóa nguy hiểm nhưng không làm sạch hoặc không bóc biểu trưng nguy hiểm trên phương tiện là bao nhiêu?",
+        "initial_reasoning": "Cần tìm điều khoản quy định mức phạt đối với hành vi vận chuyển hàng hóa nguy hiểm mà không làm sạch hoặc không bóc biểu trưng nguy hiểm.",
+        "iterations": [
+          {
+            "query": "Mức phạt cho hành vi không làm sạch hoặc không bóc biểu trưng hàng nguy hiểm",
+            "retrieved_documents": [
+              "Điều 23, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vận chuyển hàng hóa nguy hiểm mà không làm sạch hoặc không bóc biểu trưng nguy hiểm trên phương tiện khi không tiếp tục vận chuyển loại hàng hóa đó."
+            ],
+            "reasoning": "Khoản 1 của Điều 23 đã cung cấp đầy đủ thông tin về mức phạt."
+          }
+        ],
+        "final_answer": "Mức phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Nếu vận chuyển hàng hóa nguy hiểm mà không mang theo hồ sơ vận chuyển thì bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt cho hành vi vận chuyển hàng hóa nguy hiểm mà không mang theo hồ sơ vận chuyển do người thuê vận tải cung cấp.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi không mang theo hồ sơ vận chuyển hàng hóa nguy hiểm",
+            "retrieved_documents": [
+              "Điều 23, Khoản 2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi vận chuyển hàng hóa nguy hiểm mà không mang theo hồ sơ vận chuyển hàng hóa nguy hiểm do người thuê vận tải cung cấp theo quy định."
+            ],
+            "reasoning": "Khoản 2 của Điều 23 đã quy định rõ mức phạt cho hành vi này."
+          }
+        ],
+        "final_answer": "Mức phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Điều gì xảy ra nếu xe ô tô vận chuyển hàng nguy hiểm không dán nhãn nhận diện?",
+        "initial_reasoning": "Cần xác định mức phạt và hình thức xử lý đối với xe ô tô không dán nhãn nhận diện hàng hóa nguy hiểm.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe ô tô vận chuyển hàng nguy hiểm không dán nhãn nhận diện",
+            "retrieved_documents": [
+              "Điều 23, Khoản 3: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi vận chuyển hàng nguy hiểm mà xe ô tô không dán nhãn, biểu trưng nhận diện hàng hóa nguy hiểm."
+            ],
+            "reasoning": "Khoản 3 Điều 23 đã xác định rõ mức phạt."
+          }
+        ],
+        "final_answer": "Mức phạt từ 4.000.000 đồng đến 6.000.000 đồng."
+      },
+      {
+        "question": "Có bị trừ điểm giấy phép lái xe nếu vận chuyển hàng nguy hiểm qua hầm dài hơn 100m?",
+        "initial_reasoning": "Cần kiểm tra xem có quy định nào về việc trừ điểm giấy phép lái xe khi vi phạm vận chuyển hàng nguy hiểm qua hầm dài hơn 100m không.",
+        "iterations": [
+          {
+            "query": "Xử phạt đối với hành vi vận chuyển hàng nguy hiểm qua hầm dài hơn 100m",
+            "retrieved_documents": [
+              "Điều 23, Khoản 4: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với hành vi vận chuyển hàng hoá nguy hiểm là thuốc nổ, khí đốt, xăng, dầu và các chất dễ cháy, nổ, chất rắn khử nhạy khác đi qua các công trình hầm có chiều dài từ 100 mét trở lên.",
+              "Điều 23, Khoản 7, Điểm a: Thực hiện hành vi quy định tại khoản 3, khoản 4 Điều này bị trừ điểm giấy phép lái xe 02 điểm."
+            ],
+            "reasoning": "Khoản 4 quy định mức phạt tiền, và Khoản 7, Điểm a xác định người vi phạm sẽ bị trừ 02 điểm giấy phép lái xe."
+          }
+        ],
+        "final_answer": "Có, bị trừ 02 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Mức phạt khi vận chuyển hàng hóa nguy hiểm mà không có giấy phép hoặc giấy phép hết hạn là bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt cho hành vi vận chuyển hàng nguy hiểm không có giấy phép hoặc giấy phép hết hạn.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi không có giấy phép vận chuyển hàng hóa nguy hiểm",
+            "retrieved_documents": [
+              "Điều 23, Khoản 5: Phạt tiền từ 12.000.000 đồng đến 14.000.000 đồng đối với hành vi vận chuyển hàng hóa nguy hiểm không có giấy phép hoặc có nhưng hết hiệu lực."
+            ],
+            "reasoning": "Khoản 5 Điều 23 đã quy định rõ mức phạt."
+          }
+        ],
+        "final_answer": "Mức phạt từ 12.000.000 đồng đến 14.000.000 đồng."
+      },
+      {
+        "question": "Có hình phạt bổ sung nào nếu vận chuyển hàng nguy hiểm không có giấy phép?",
+        "initial_reasoning": "Cần kiểm tra xem có hình thức xử phạt bổ sung nào áp dụng khi vận chuyển hàng nguy hiểm không có giấy phép.",
+        "iterations": [
+          {
+            "query": "Xử phạt bổ sung đối với hành vi vận chuyển hàng nguy hiểm không có giấy phép",
+            "retrieved_documents": [
+              "Điều 23, Khoản 7, Điểm b: Thực hiện hành vi quy định tại khoản 5 Điều này bị trừ điểm giấy phép lái xe 04 điểm."
+            ],
+            "reasoning": "Khoản 7, Điểm b xác định mức trừ điểm GPLX đối với hành vi vi phạm này."
+          }
+        ],
+        "final_answer": "Bị trừ 04 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Có biện pháp xử lý nào khác nếu vận chuyển hàng nguy hiểm gây ô nhiễm môi trường?",
+        "initial_reasoning": "Cần kiểm tra xem có biện pháp khắc phục nào áp dụng cho hành vi vi phạm gây ô nhiễm môi trường.",
+        "iterations": [
+          {
+            "query": "Biện pháp khắc phục đối với vi phạm gây ô nhiễm môi trường",
+            "retrieved_documents": [
+              "Điều 23, Khoản 6: Người thực hiện hành vi vi phạm tại khoản 4, khoản 5 nếu gây ô nhiễm môi trường còn bị áp dụng biện pháp khắc phục hậu quả buộc thực hiện các biện pháp khắc phục tình trạng ô nhiễm môi trường do vi phạm hành chính gây ra."
+            ],
+            "reasoning": "Khoản 6 quy định rõ biện pháp khắc phục hậu quả khi có ô nhiễm môi trường."
+          }
+        ],
+        "final_answer": "Buộc thực hiện biện pháp khắc phục tình trạng ô nhiễm môi trường."
+      },
+      {
+        "question": "Nếu tôi vận chuyển hàng hóa nguy hiểm mà xe không có nhãn nhận diện và cũng không có hồ sơ vận chuyển thì bị phạt như thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt cho từng vi phạm riêng lẻ và sau đó tổng hợp lại để đưa ra mức phạt cuối cùng.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe ô tô vận chuyển hàng nguy hiểm không có nhãn nhận diện",
+            "retrieved_documents": [
+              "Điều 23, Khoản 3: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi vận chuyển hàng nguy hiểm mà xe ô tô không dán nhãn, biểu trưng nhận diện hàng hóa nguy hiểm."
+            ],
+            "reasoning": "Đã xác định được mức phạt cho hành vi không có nhãn nhận diện."
+          },
+          {
+            "query": "Mức phạt khi không mang theo hồ sơ vận chuyển hàng hóa nguy hiểm",
+            "retrieved_documents": [
+              "Điều 23, Khoản 2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi không mang theo hồ sơ vận chuyển hàng hóa nguy hiểm."
+            ],
+            "reasoning": "Đã xác định mức phạt cho hành vi không có hồ sơ vận chuyển."
+          }
+        ],
+        "final_answer": "Mức phạt tổng cộng từ 6.000.000 đồng đến 9.000.000 đồng."
+      },
+      {
+        "question": "Tôi vận chuyển hàng hóa nguy hiểm có giấy phép nhưng hết hạn và đi qua hầm dài hơn 100m, vậy tôi bị phạt thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt cho hành vi sử dụng giấy phép hết hạn và vận chuyển qua hầm dài hơn 100m.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi vận chuyển hàng nguy hiểm mà giấy phép hết hạn",
+            "retrieved_documents": [
+              "Điều 23, Khoản 5: Phạt tiền từ 12.000.000 đồng đến 14.000.000 đồng đối với hành vi vận chuyển hàng hóa nguy hiểm không có giấy phép hoặc có nhưng hết hiệu lực."
+            ],
+            "reasoning": "Đã xác định mức phạt cho hành vi giấy phép hết hạn."
+          },
+          {
+            "query": "Mức phạt khi vận chuyển hàng nguy hiểm qua hầm dài hơn 100m",
+            "retrieved_documents": [
+              "Điều 23, Khoản 4: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với hành vi vận chuyển hàng hóa nguy hiểm đi qua hầm dài từ 100 mét trở lên."
+            ],
+            "reasoning": "Đã xác định mức phạt cho hành vi vận chuyển qua hầm dài hơn 100m."
+          }
+        ],
+        "final_answer": "Mức phạt tổng cộng từ 18.000.000 đồng đến 22.000.000 đồng."
+      },
+      {
+        "question": "Nếu tôi vận chuyển hàng hóa nguy hiểm không có giấy phép và gây ô nhiễm môi trường thì bị xử lý thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho việc không có giấy phép và xác định các biện pháp khắc phục khi gây ô nhiễm môi trường.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi vận chuyển hàng nguy hiểm không có giấy phép",
+            "retrieved_documents": [
+              "Điều 23, Khoản 5: Phạt tiền từ 12.000.000 đồng đến 14.000.000 đồng đối với hành vi vận chuyển hàng hóa nguy hiểm không có giấy phép hoặc có nhưng hết hiệu lực."
+            ],
+            "reasoning": "Đã xác định mức phạt cho hành vi không có giấy phép."
+          },
+          {
+            "query": "Biện pháp xử lý khi vi phạm gây ô nhiễm môi trường",
+            "retrieved_documents": [
+              "Điều 23, Khoản 6: Nếu gây ô nhiễm môi trường, người vi phạm bị buộc thực hiện các biện pháp khắc phục tình trạng ô nhiễm."
+            ],
+            "reasoning": "Đã xác định biện pháp khắc phục khi gây ô nhiễm môi trường."
+          }
+        ],
+        "final_answer": "Mức phạt từ 12.000.000 đồng đến 14.000.000 đồng và buộc khắc phục tình trạng ô nhiễm môi trường."
+      },
+      {
+        "question": "Nếu tôi vận chuyển hàng nguy hiểm mà không có giấy phép và không lắp đèn cảnh báo thì có bị trừ điểm giấy phép lái xe không?",
+        "initial_reasoning": "Cần kiểm tra mức phạt cho từng hành vi và xem xét quy định về trừ điểm GPLX.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi vận chuyển hàng nguy hiểm không có giấy phép",
+            "retrieved_documents": [
+              "Điều 23, Khoản 5: Phạt tiền từ 12.000.000 đồng đến 14.000.000 đồng đối với hành vi không có giấy phép."
+            ],
+            "reasoning": "Đã xác định mức phạt cho hành vi không có giấy phép."
+          },
+          {
+            "query": "Mức phạt khi xe ô tô vận chuyển hàng nguy hiểm không lắp đèn cảnh báo",
+            "retrieved_documents": [
+              "Điều 23, Khoản 3: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi không lắp đèn hoặc tín hiệu cảnh báo theo quy định."
+            ],
+            "reasoning": "Đã xác định mức phạt cho hành vi không lắp đèn cảnh báo."
+          },
+          {
+            "query": "Mức trừ điểm GPLX cho các hành vi này",
+            "retrieved_documents": [
+              "Điều 23, Khoản 7: Thực hiện hành vi quy định tại khoản 3, khoản 4 bị trừ 2 điểm; vi phạm khoản 5 bị trừ 4 điểm."
+            ],
+            "reasoning": "Tổng hợp lại, vi phạm khoản 3 bị trừ 2 điểm, vi phạm khoản 5 bị trừ 4 điểm."
+          }
+        ],
+        "final_answer": "Mức phạt tổng cộng từ 16.000.000 đồng đến 20.000.000 đồng, bị trừ 6 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Tôi vận chuyển hàng hóa nguy hiểm qua hầm dài hơn 100m và không có giấy phép, vậy tôi bị phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho cả hai vi phạm này và xác định hình thức xử phạt bổ sung nếu có.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi vận chuyển hàng nguy hiểm qua hầm dài hơn 100m",
+            "retrieved_documents": [
+              "Điều 23, Khoản 4: Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng."
+            ],
+            "reasoning": "Đã xác định mức phạt cho hành vi vận chuyển hàng nguy hiểm qua hầm dài hơn 100m."
+          },
+          {
+            "query": "Mức phạt khi vận chuyển hàng nguy hiểm không có giấy phép",
+            "retrieved_documents": [
+              "Điều 23, Khoản 5: Phạt tiền từ 12.000.000 đồng đến 14.000.000 đồng."
+            ],
+            "reasoning": "Đã xác định mức phạt cho hành vi không có giấy phép."
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung nếu có",
+            "retrieved_documents": [
+              "Điều 23, Khoản 7: Vi phạm khoản 4 bị trừ 2 điểm GPLX, vi phạm khoản 5 bị trừ 4 điểm GPLX."
+            ],
+            "reasoning": "Người vi phạm sẽ bị trừ tổng cộng 6 điểm giấy phép lái xe."
+          }
+        ],
+        "final_answer": "Mức phạt từ 18.000.000 đồng đến 22.000.000 đồng, bị trừ 6 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Mức phạt đối với việc vận chuyển động vật sống không có đủ giấy tờ theo quy định là bao nhiêu?",
+        "initial_reasoning": "Cần xác định xem nghị định có quy định cụ thể về mức phạt đối với hành vi vận chuyển động vật sống không có giấy tờ hay không.",
+        "iterations": [
+          {
+            "query": "Xử phạt vận chuyển động vật sống không có giấy tờ",
+            "retrieved_documents": [
+              "Điều 24, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm vận chuyển động vật sống, thực phẩm tươi sống không mang đủ giấy tờ theo quy định."
+            ],
+            "reasoning": "Nghị định quy định mức phạt trong khoảng từ 1.000.000 đồng đến 2.000.000 đồng cho hành vi này."
+          }
+        ],
+        "final_answer": "Mức phạt đối với việc vận chuyển động vật sống không có đủ giấy tờ là từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh môi trường bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần kiểm tra xem có quy định nào trong nghị định về mức phạt đối với hành vi này.",
+        "iterations": [
+          {
+            "query": "Xử phạt vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh môi trường",
+            "retrieved_documents": [
+              "Điều 24, Khoản 2: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi vi phạm vận chuyển thực phẩm tươi sống không chấp hành quy định về an toàn thực phẩm, vệ sinh dịch tễ, phòng dịch và bảo đảm vệ sinh môi trường theo quy định."
+            ],
+            "reasoning": "Nghị định quy định mức phạt từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi này."
+          }
+        ],
+        "final_answer": "Mức phạt đối với hành vi vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh môi trường là từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Người điều khiển ô tô bị trừ bao nhiêu điểm GPLX khi vi phạm vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh?",
+        "initial_reasoning": "Cần kiểm tra xem nghị định có quy định về việc trừ điểm GPLX khi vi phạm quy định về vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh.",
+        "iterations": [
+          {
+            "query": "Trừ điểm GPLX do vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh",
+            "retrieved_documents": [
+              "Điều 24, Khoản 3: Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 2 Điều này còn bị trừ điểm giấy phép lái xe 02 điểm."
+            ],
+            "reasoning": "Nghị định quy định việc trừ 02 điểm GPLX đối với hành vi vi phạm này."
+          }
+        ],
+        "final_answer": "Người điều khiển ô tô bị trừ 02 điểm GPLX khi vi phạm vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh."
+      },
+      {
+        "question": "Có hình thức xử phạt bổ sung nào ngoài phạt tiền khi vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh không?",
+        "initial_reasoning": "Cần kiểm tra xem nghị định có đề cập đến hình thức xử phạt bổ sung ngoài việc phạt tiền đối với hành vi này không.",
+        "iterations": [
+          {
+            "query": "Xử phạt bổ sung vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh",
+            "retrieved_documents": [
+              "Điều 24, Khoản 3: Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 2 Điều này còn bị trừ điểm giấy phép lái xe 02 điểm."
+            ],
+            "reasoning": "Ngoài phạt tiền, người vi phạm còn bị trừ 02 điểm GPLX."
+          }
+        ],
+        "final_answer": "Hình thức xử phạt bổ sung là trừ 02 điểm GPLX đối với người điều khiển phương tiện vi phạm."
+      },
+      {
+        "question": "Mức phạt đối với hành vi vận chuyển thực phẩm tươi sống không có giấy tờ theo quy định là bao nhiêu?",
+        "initial_reasoning": "Cần kiểm tra nghị định xem có quy định mức phạt đối với việc vận chuyển thực phẩm tươi sống không có giấy tờ không.",
+        "iterations": [
+          {
+            "query": "Xử phạt vận chuyển thực phẩm tươi sống không có giấy tờ",
+            "retrieved_documents": [
+              "Điều 24, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm vận chuyển động vật sống, thực phẩm tươi sống không mang đủ giấy tờ theo quy định."
+            ],
+            "reasoning": "Mức phạt áp dụng cho hành vi này là từ 1.000.000 đồng đến 2.000.000 đồng."
+          }
+        ],
+        "final_answer": "Mức phạt đối với hành vi vận chuyển thực phẩm tươi sống không có giấy tờ là từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Tôi bị phạt bao nhiêu nếu vận chuyển thực phẩm tươi sống không có giấy tờ và không đảm bảo vệ sinh?",
+        "initial_reasoning": "Cần xác định mức phạt cho từng hành vi riêng lẻ, sau đó kết hợp để tính tổng mức phạt.",
+        "iterations": [
+          {
+            "query": "Xử phạt vận chuyển thực phẩm tươi sống không có giấy tờ",
+            "retrieved_documents": [
+              "Điều 24, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm vận chuyển động vật sống, thực phẩm tươi sống không mang đủ giấy tờ theo quy định."
+            ],
+            "reasoning": "Mức phạt cho hành vi không có giấy tờ là từ 1.000.000 đồng đến 2.000.000 đồng. Cần tìm thêm thông tin về hành vi không đảm bảo vệ sinh."
+          },
+          {
+            "query": "Xử phạt vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh",
+            "retrieved_documents": [
+              "Điều 24, Khoản 2: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi vi phạm vận chuyển thực phẩm tươi sống không chấp hành quy định về an toàn thực phẩm, vệ sinh dịch tễ, phòng dịch và bảo đảm vệ sinh môi trường theo quy định."
+            ],
+            "reasoning": "Mức phạt cho hành vi không đảm bảo vệ sinh là từ 3.000.000 đồng đến 5.000.000 đồng. Tổng mức phạt có thể từ 4.000.000 đồng đến 7.000.000 đồng."
+          }
+        ],
+        "final_answer": "Tổng mức phạt cho cả hai hành vi là từ 4.000.000 đồng đến 7.000.000 đồng."
+      },
+      {
+        "question": "Nếu tôi bị xử phạt vì vận chuyển thực phẩm không đảm bảo vệ sinh, tôi có bị trừ điểm GPLX không? Nếu có thì bao nhiêu điểm?",
+        "initial_reasoning": "Cần kiểm tra xem hành vi này có bị áp dụng hình thức xử phạt bổ sung là trừ điểm GPLX không.",
+        "iterations": [
+          {
+            "query": "Trừ điểm GPLX khi vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh",
+            "retrieved_documents": [
+              "Điều 24, Khoản 3: Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 2 Điều này còn bị trừ điểm giấy phép lái xe 02 điểm."
+            ],
+            "reasoning": "Có quy định về việc trừ điểm GPLX, cụ thể là trừ 02 điểm đối với hành vi này."
+          }
+        ],
+        "final_answer": "Người vi phạm bị trừ 02 điểm GPLX nếu vận chuyển thực phẩm không đảm bảo vệ sinh."
+      },
+      {
+        "question": "Có sự khác biệt nào về mức phạt giữa việc vận chuyển động vật sống và thực phẩm tươi sống không có giấy tờ không?",
+        "initial_reasoning": "Cần xác định xem mức phạt cho hai hành vi này có được quy định chung hay tách biệt.",
+        "iterations": [
+          {
+            "query": "Xử phạt vận chuyển động vật sống không có giấy tờ",
+            "retrieved_documents": [
+              "Điều 24, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm vận chuyển động vật sống, thực phẩm tươi sống không mang đủ giấy tờ theo quy định."
+            ],
+            "reasoning": "Cả hai hành vi đều có chung mức phạt từ 1.000.000 đồng đến 2.000.000 đồng, không có sự khác biệt."
+          }
+        ],
+        "final_answer": "Không có sự khác biệt về mức phạt giữa vận chuyển động vật sống và thực phẩm tươi sống không có giấy tờ, mức phạt chung là từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Nếu bị phạt do vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh, tôi có thể bị tước GPLX không?",
+        "initial_reasoning": "Cần kiểm tra xem ngoài trừ điểm GPLX, hành vi này có bị áp dụng hình thức tước GPLX không.",
+        "iterations": [
+          {
+            "query": "Tước GPLX khi vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh",
+            "retrieved_documents": [],
+            "reasoning": "Không có quy định về việc tước GPLX đối với hành vi này, chỉ có hình thức phạt tiền và trừ điểm."
+          }
+        ],
+        "final_answer": "Không bị tước GPLX khi vận chuyển thực phẩm tươi sống không đảm bảo vệ sinh, chỉ bị phạt tiền và trừ điểm GPLX."
+      },
+      {
+        "question": "Người điều khiển xe vệ sinh môi trường chạy sai tuyến đường bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt áp dụng cho người điều khiển xe vệ sinh môi trường khi không chạy đúng tuyến, phạm vi, thời gian quy định.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi điều khiển xe vệ sinh môi trường không đúng tuyến đường?",
+            "retrieved_documents": [
+              "Điều 25, Khoản 1: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi điều khiển xe không chạy đúng tuyến, phạm vi, thời gian quy định."
+            ],
+            "reasoning": "Đã tìm thấy mức phạt tiền trong Điều 25, Khoản 1. Cần kiểm tra xem có hình thức xử phạt bổ sung nào không."
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung khi xe vệ sinh môi trường chạy sai tuyến?",
+            "retrieved_documents": [
+              "Điều 25, Khoản 2: Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị trừ điểm giấy phép lái xe 02 điểm."
+            ],
+            "reasoning": "Ngoài phạt tiền, người điều khiển xe còn bị trừ 02 điểm trên giấy phép lái xe."
+          }
+        ],
+        "final_answer": "Người điều khiển xe vệ sinh môi trường chạy sai tuyến đường bị phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng và bị trừ 02 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Xếp hàng hóa lên xe ô tô vượt quá trọng tải 60% thì bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt đối với hành vi xếp hàng hóa vượt quá trọng tải từ 50% đến 100%.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xếp hàng vượt quá trọng tải trên 50%?",
+            "retrieved_documents": [
+              "Điều 26, Khoản 3: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với cá nhân, từ 4.000.000 đồng đến 6.000.000 đồng đối với tổ chức."
+            ],
+            "reasoning": "Hành vi xếp hàng hóa vượt quá trọng tải từ 50% đến 100% bị phạt từ 2.000.000 đến 3.000.000 đồng đối với cá nhân, từ 4.000.000 đến 6.000.000 đồng đối với tổ chức."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với cá nhân, từ 4.000.000 đồng đến 6.000.000 đồng đối với tổ chức khi xếp hàng hóa lên xe ô tô vượt quá trọng tải 60%."
+      },
+      {
+        "question": "Không cấp lệnh vận chuyển cho lái xe có bị xử phạt không?",
+        "initial_reasoning": "Cần xác định mức phạt đối với hành vi không cấp lệnh vận chuyển cho lái xe.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi không cấp lệnh vận chuyển cho lái xe?",
+            "retrieved_documents": [
+              "Điều 26, Khoản 2, Điểm đ: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với cá nhân, từ 2.000.000 đồng đến 4.000.000 đồng đối với tổ chức."
+            ],
+            "reasoning": "Hành vi không cấp lệnh vận chuyển hoặc cấp không đúng quy định bị xử phạt theo Điều 26, Khoản 2, Điểm đ."
+          }
+        ],
+        "final_answer": "Không cấp lệnh vận chuyển cho lái xe bị phạt từ 1.000.000 đồng đến 2.000.000 đồng đối với cá nhân, từ 2.000.000 đồng đến 4.000.000 đồng đối với tổ chức."
+      },
+      {
+        "question": "Lái xe khách giường nằm hai tầng nhưng chưa đủ số năm kinh nghiệm bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm hiểu quy định về số năm kinh nghiệm đối với lái xe khách giường nằm hai tầng và mức xử phạt nếu không đủ điều kiện.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi lái xe khách giường nằm hai tầng chưa đủ số năm kinh nghiệm?",
+            "retrieved_documents": [
+              "Điều 26, Khoản 7, Điểm đ: Phạt tiền từ 5.000.000 đồng đến 6.000.000 đồng đối với cá nhân, từ 10.000.000 đồng đến 12.000.000 đồng đối với tổ chức."
+            ],
+            "reasoning": "Mức phạt áp dụng cho hành vi sử dụng lái xe khách giường nằm hai tầng chưa đủ số năm kinh nghiệm được quy định tại Điều 26, Khoản 7, Điểm đ."
+          }
+        ],
+        "final_answer": "Lái xe khách giường nằm hai tầng chưa đủ số năm kinh nghiệm bị phạt từ 5.000.000 đồng đến 6.000.000 đồng đối với cá nhân, từ 10.000.000 đồng đến 12.000.000 đồng đối với tổ chức."
+      },
+      {
+        "question": "Xếp hàng hóa lên xe ô tô vượt quá trọng tải 110% bị phạt thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt đối với hành vi xếp hàng hóa vượt quá trọng tải trên 100%.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xếp hàng hóa vượt quá trọng tải trên 100%?",
+            "retrieved_documents": [
+              "Điều 26, Khoản 5: Phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng đối với cá nhân, từ 8.000.000 đồng đến 10.000.000 đồng đối với tổ chức."
+            ],
+            "reasoning": "Hành vi xếp hàng vượt quá trọng tải trên 100% bị xử phạt theo Điều 26, Khoản 5."
+          }
+        ],
+        "final_answer": "Xếp hàng hóa lên xe ô tô vượt quá trọng tải 110% bị phạt từ 4.000.000 đồng đến 5.000.000 đồng đối với cá nhân, từ 8.000.000 đồng đến 10.000.000 đồng đối với tổ chức."
+      },
+      {
+        "question": "Doanh nghiệp kinh doanh vận tải không niêm yết giá cước trên xe bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hành vi không niêm yết giá cước đối với doanh nghiệp kinh doanh vận tải.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi doanh nghiệp không niêm yết giá cước vận tải?",
+            "retrieved_documents": [
+              "Điều 28, Khoản 2, Điểm a: Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với cá nhân, từ 4.000.000 đồng đến 8.000.000 đồng đối với tổ chức."
+            ],
+            "reasoning": "Đã xác định mức phạt nhưng cần kiểm tra có hình thức xử phạt bổ sung không."
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung khi không niêm yết giá cước vận tải?",
+            "retrieved_documents": [
+              "Không có quy định về hình thức xử phạt bổ sung."
+            ],
+            "reasoning": "Không có hình thức xử phạt bổ sung đối với hành vi này."
+          }
+        ],
+        "final_answer": "Doanh nghiệp kinh doanh vận tải không niêm yết giá cước trên xe bị phạt từ 2.000.000 đồng đến 4.000.000 đồng đối với cá nhân, từ 4.000.000 đồng đến 8.000.000 đồng đối với tổ chức."
+      },
+      {
+        "question": "Lái xe taxi thu tiền cao hơn giá cước niêm yết bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt khi lái xe taxi thu tiền cao hơn giá cước niêm yết.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi lái xe taxi thu tiền cao hơn giá cước?",
+            "retrieved_documents": [
+              "Điều 28, Khoản 3, Điểm b: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với cá nhân."
+            ],
+            "reasoning": "Đã xác định mức phạt nhưng cần kiểm tra có hình thức xử phạt bổ sung không."
+          },
+          {
+            "query": "Có hình thức xử phạt bổ sung khi thu tiền cao hơn giá cước niêm yết không?",
+            "retrieved_documents": [
+              "Không có quy định về hình thức xử phạt bổ sung."
+            ],
+            "reasoning": "Không có hình thức xử phạt bổ sung đối với hành vi này."
+          }
+        ],
+        "final_answer": "Lái xe taxi thu tiền cao hơn giá cước niêm yết bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Lái xe không mang theo giấy phép lái xe khi điều khiển xe ô tô bị phạt thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt khi lái xe không mang theo giấy phép lái xe.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi không mang theo giấy phép lái xe?",
+            "retrieved_documents": [
+              "Điều 21, Khoản 2, Điểm b: Phạt tiền từ 400.000 đồng đến 600.000 đồng."
+            ],
+            "reasoning": "Đã xác định mức phạt nhưng cần kiểm tra xem có hình thức xử phạt bổ sung không."
+          },
+          {
+            "query": "Có bị tạm giữ phương tiện khi không mang giấy phép lái xe không?",
+            "retrieved_documents": [
+              "Điều 21, Khoản 6: Không có quy định về tạm giữ phương tiện trong trường hợp này."
+            ],
+            "reasoning": "Không có quy định tạm giữ phương tiện đối với hành vi này."
+          }
+        ],
+        "final_answer": "Lái xe không mang theo giấy phép lái xe khi điều khiển xe ô tô bị phạt từ 400.000 đồng đến 600.000 đồng."
+      },
+      {
+        "question": "Xe ô tô chở khách không có hợp đồng vận chuyển bị xử phạt thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt khi xe ô tô chở khách không có hợp đồng vận chuyển.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe ô tô chở khách không có hợp đồng vận chuyển?",
+            "retrieved_documents": [
+              "Điều 28, Khoản 4, Điểm a: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với cá nhân, từ 8.000.000 đồng đến 12.000.000 đồng đối với tổ chức."
+            ],
+            "reasoning": "Đã xác định mức phạt nhưng cần kiểm tra có hình thức xử phạt bổ sung không."
+          },
+          {
+            "query": "Hình thức xử phạt bổ sung khi không có hợp đồng vận chuyển?",
+            "retrieved_documents": [
+              "Điều 28, Khoản 6: Tước quyền sử dụng giấy phép kinh doanh vận tải từ 1 đến 3 tháng."
+            ],
+            "reasoning": "Ngoài phạt tiền, doanh nghiệp còn bị tước quyền sử dụng giấy phép kinh doanh vận tải từ 1 đến 3 tháng."
+          }
+        ],
+        "final_answer": "Xe ô tô chở khách không có hợp đồng vận chuyển bị phạt từ 4.000.000 đồng đến 6.000.000 đồng đối với cá nhân, từ 8.000.000 đồng đến 12.000.000 đồng đối với tổ chức, đồng thời bị tước quyền sử dụng giấy phép kinh doanh vận tải từ 1 đến 3 tháng."
+      },
+      {
+        "question": "Nếu lái xe chở học sinh nhưng không có dây đai an toàn phù hợp với lứa tuổi thì bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với hành vi điều khiển xe ô tô chở học sinh mà không có dây đai an toàn phù hợp với lứa tuổi.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe ô tô chở học sinh không có dây đai an toàn",
+            "retrieved_documents": [
+              "Điều 27, Khoản 1, Điểm b: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Hành vi này thuộc Khoản 1, Điểm b của Điều 27, mức phạt là từ 1.000.000 đồng đến 2.000.000 đồng."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Lái xe chở học sinh nhưng không có thiết bị giám sát hành trình bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hành vi điều khiển xe ô tô chở học sinh mà không có thiết bị giám sát hành trình.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe ô tô chở học sinh không có thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 27, Khoản 3, Điểm a: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Hành vi này thuộc Khoản 3, Điểm a của Điều 27, mức phạt là từ 3.000.000 đồng đến 5.000.000 đồng."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Lái xe chở học sinh không có người quản lý trên xe sẽ bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt khi xe ô tô chở học sinh nhưng không có người quản lý trên xe.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có người quản lý",
+            "retrieved_documents": [
+              "Điều 27, Khoản 2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng."
+            ],
+            "reasoning": "Hành vi này thuộc Khoản 2 của Điều 27, mức phạt là từ 2.000.000 đồng đến 3.000.000 đồng."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Xe chở học sinh không có biển báo nhận diện sẽ bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt đối với xe ô tô chở học sinh nhưng không có biển báo nhận diện.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có biển báo nhận diện",
+            "retrieved_documents": [
+              "Điều 27, Khoản 3, Điểm d: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Hành vi này thuộc Khoản 3, Điểm d của Điều 27, mức phạt là từ 3.000.000 đồng đến 5.000.000 đồng."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Nếu xe chở học sinh không có thiết bị ghi nhận hình ảnh người lái xe thì bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt đối với xe ô tô chở học sinh nhưng không có thiết bị ghi nhận hình ảnh người lái xe.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có thiết bị ghi nhận hình ảnh người lái xe",
+            "retrieved_documents": [
+              "Điều 27, Khoản 1, Điểm c: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Hành vi này thuộc Khoản 1, Điểm c của Điều 27, mức phạt là từ 1.000.000 đồng đến 2.000.000 đồng."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Nếu lái xe chở học sinh mà không có thiết bị chống bỏ quên trẻ em thì bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt đối với xe ô tô chở học sinh mà không có thiết bị chống bỏ quên trẻ em.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có thiết bị chống bỏ quên trẻ em",
+            "retrieved_documents": [
+              "Điều 27, Khoản 3, Điểm b: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Hành vi này thuộc Khoản 3, Điểm b của Điều 27, mức phạt là từ 3.000.000 đồng đến 5.000.000 đồng."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Nếu xe chở học sinh không có màu sơn theo quy định thì bị xử phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với xe ô tô chở học sinh mà không có màu sơn theo quy định.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có màu sơn theo quy định",
+            "retrieved_documents": [
+              "Điều 27, Khoản 3, Điểm c: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Hành vi này thuộc Khoản 3, Điểm c của Điều 27, mức phạt là từ 3.000.000 đồng đến 5.000.000 đồng."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Lái xe chở học sinh vừa không có biển báo nhận diện vừa không có thiết bị giám sát hành trình thì bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hai vi phạm: không có biển báo nhận diện và không có thiết bị giám sát hành trình.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có biển báo nhận diện",
+            "retrieved_documents": [
+              "Điều 27, Khoản 3, Điểm d: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm không có biển báo nhận diện."
+          },
+          {
+            "query": "Mức phạt khi xe chở học sinh không có thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 27, Khoản 3, Điểm a: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm không có thiết bị giám sát hành trình."
+          }
+        ],
+        "final_answer": "Tổng mức phạt là từ 6.000.000 đồng đến 10.000.000 đồng."
+      },
+      {
+        "question": "Lái xe chở học sinh không có dây đai an toàn và không có ghế ngồi phù hợp với lứa tuổi bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hai vi phạm: không có dây đai an toàn và không có ghế ngồi phù hợp với lứa tuổi.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có dây đai an toàn",
+            "retrieved_documents": [
+              "Điều 27, Khoản 1, Điểm b: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm không có dây đai an toàn."
+          },
+          {
+            "query": "Mức phạt khi xe chở học sinh không có ghế ngồi phù hợp với lứa tuổi",
+            "retrieved_documents": [
+              "Điều 27, Khoản 1, Điểm b: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm không có ghế ngồi phù hợp với lứa tuổi."
+          }
+        ],
+        "final_answer": "Tổng mức phạt là từ 1.000.000 đồng đến 2.000.000 đồng (vì hai lỗi thuộc cùng một điểm)."
+      },
+      {
+        "question": "Xe chở học sinh không có thiết bị giám sát hành trình và làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh người lái xe bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hai vi phạm: không có thiết bị giám sát hành trình và làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh người lái xe.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 27, Khoản 3, Điểm a: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm không có thiết bị giám sát hành trình."
+          },
+          {
+            "query": "Mức phạt khi xe chở học sinh làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh người lái xe",
+            "retrieved_documents": [
+              "Điều 27, Khoản 1, Điểm c: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh."
+          }
+        ],
+        "final_answer": "Tổng mức phạt là từ 4.000.000 đồng đến 7.000.000 đồng."
+      },
+      {
+        "question": "Nếu xe chở học sinh không có màu sơn theo quy định và không có người quản lý trên xe thì bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt cho hai vi phạm: không có màu sơn theo quy định và không có người quản lý trên xe.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có màu sơn theo quy định",
+            "retrieved_documents": [
+              "Điều 27, Khoản 3, Điểm c: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm không có màu sơn theo quy định."
+          },
+          {
+            "query": "Mức phạt khi xe chở học sinh không có người quản lý trên xe",
+            "retrieved_documents": [
+              "Điều 27, Khoản 2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm không có người quản lý trên xe."
+          }
+        ],
+        "final_answer": "Tổng mức phạt là từ 5.000.000 đồng đến 8.000.000 đồng."
+      },
+      {
+        "question": "Nếu xe chở học sinh không có thiết bị chống bỏ quên trẻ em và không có dây đai an toàn thì bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt cho hai vi phạm: không có thiết bị chống bỏ quên trẻ em và không có dây đai an toàn.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi xe chở học sinh không có thiết bị chống bỏ quên trẻ em",
+            "retrieved_documents": [
+              "Điều 27, Khoản 3, Điểm b: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm không có thiết bị chống bỏ quên trẻ em."
+          },
+          {
+            "query": "Mức phạt khi xe chở học sinh không có dây đai an toàn",
+            "retrieved_documents": [
+              "Điều 27, Khoản 1, Điểm b: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Xác định được mức phạt cho vi phạm không có dây đai an toàn."
+          }
+        ],
+        "final_answer": "Tổng mức phạt là từ 4.000.000 đồng đến 7.000.000 đồng."
+      },
+      {
+        "question": "Lái xe chở người bốn bánh có gắn động cơ mà chở quá số người quy định bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt áp dụng đối với hành vi chở quá số người quy định của xe chở người bốn bánh có gắn động cơ.",
+        "iterations": [
+          {
+            "query": "mức phạt chở quá số người quy định xe chở người bốn bánh",
+            "retrieved_documents": [
+              "Điều 28.1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi chở quá số người quy định được phép chở của phương tiện."
+            ],
+            "reasoning": "Đã tìm thấy quy định xử phạt, mức phạt nằm trong khoảng 1.000.000 - 2.000.000 đồng."
+          }
+        ],
+        "final_answer": "Người điều khiển xe chở người bốn bánh có gắn động cơ chở quá số người quy định sẽ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng theo Điều 28.1 Nghị định 168."
+      },
+      {
+        "question": "Nếu tôi lái xe chở hàng bốn bánh có gắn động cơ kinh doanh vận tải mà không có phù hiệu thì bị xử phạt thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt cho hành vi không có phù hiệu đối với xe chở hàng bốn bánh có gắn động cơ kinh doanh vận tải.",
+        "iterations": [
+          {
+            "query": "mức phạt không có phù hiệu xe chở hàng bốn bánh kinh doanh vận tải",
+            "retrieved_documents": [
+              "Điều 28.2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi điều khiển xe chở người bốn bánh có gắn động cơ kinh doanh vận tải, xe chở hàng bốn bánh có gắn động cơ kinh doanh vận tải không có hoặc không gắn phù hiệu theo quy định."
+            ],
+            "reasoning": "Thông tin từ Điều 28.2 cho thấy mức phạt từ 2.000.000 - 3.000.000 đồng."
+          }
+        ],
+        "final_answer": "Người điều khiển xe chở hàng bốn bánh có gắn động cơ kinh doanh vận tải không có phù hiệu sẽ bị phạt từ 2.000.000 đồng đến 3.000.000 đồng theo Điều 28.2 Nghị định 168."
+      },
+      {
+        "question": "Điều khiển xe chở người bốn bánh có gắn động cơ không đúng tuyến đường quy định có bị trừ điểm giấy phép lái xe không?",
+        "initial_reasoning": "Cần xác định có bị trừ điểm giấy phép lái xe không khi điều khiển xe chở người bốn bánh có gắn động cơ sai tuyến đường quy định.",
+        "iterations": [
+          {
+            "query": "trừ điểm giấy phép lái xe khi đi sai tuyến đường xe bốn bánh",
+            "retrieved_documents": [
+              "Điều 28.3: Phạt tiền từ 8.000.000 đồng đến 12.000.000 đồng đối với hành vi điều khiển xe hoạt động không đúng tuyến đường, lịch trình, thời gian được phép hoạt động hoặc phạm vi hoạt động theo quy định.",
+              "Điều 28.4b: Thực hiện hành vi quy định tại khoản 3 Điều này bị trừ điểm giấy phép lái xe 06 điểm."
+            ],
+            "reasoning": "Hành vi đi sai tuyến đường bị phạt tiền và bị trừ 6 điểm giấy phép lái xe."
+          }
+        ],
+        "final_answer": "Người điều khiển xe chở người bốn bánh có gắn động cơ không đúng tuyến đường quy định sẽ bị phạt từ 8.000.000 đến 12.000.000 đồng và bị trừ 6 điểm giấy phép lái xe theo Điều 28.3 và 28.4b Nghị định 168."
+      },
+      {
+        "question": "Lái xe chở hàng bốn bánh có gắn động cơ sử dụng phù hiệu hết hạn có bị trừ điểm giấy phép lái xe không?",
+        "initial_reasoning": "Xác định xem hành vi sử dụng phù hiệu hết hạn có bị trừ điểm giấy phép lái xe không.",
+        "iterations": [
+          {
+            "query": "trừ điểm giấy phép lái xe khi sử dụng phù hiệu hết hạn xe bốn bánh",
+            "retrieved_documents": [
+              "Điều 28.2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi điều khiển xe chở hàng bốn bánh có gắn động cơ kinh doanh vận tải sử dụng phù hiệu hết giá trị sử dụng.",
+              "Điều 28.4a: Thực hiện hành vi quy định tại khoản 2 Điều này bị trừ điểm giấy phép lái xe 02 điểm."
+            ],
+            "reasoning": "Hành vi này bị xử phạt từ 2.000.000 - 3.000.000 đồng và bị trừ 2 điểm GPLX."
+          }
+        ],
+        "final_answer": "Người điều khiển xe chở hàng bốn bánh có gắn động cơ sử dụng phù hiệu hết hạn sẽ bị phạt từ 2.000.000 đến 3.000.000 đồng và bị trừ 2 điểm giấy phép lái xe theo Điều 28.2 và 28.4a Nghị định 168."
+      },
+      {
+        "question": "Mức phạt tối đa đối với hành vi đi sai tuyến đường của xe chở người bốn bánh có gắn động cơ là bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt tối đa được áp dụng đối với hành vi đi sai tuyến đường của xe chở người bốn bánh có gắn động cơ.",
+        "iterations": [
+          {
+            "query": "mức phạt tối đa đi sai tuyến đường xe chở người bốn bánh",
+            "retrieved_documents": [
+              "Điều 28.3: Phạt tiền từ 8.000.000 đồng đến 12.000.000 đồng đối với hành vi điều khiển xe hoạt động không đúng tuyến đường, lịch trình, thời gian được phép hoạt động hoặc phạm vi hoạt động theo quy định."
+            ],
+            "reasoning": "Mức phạt tối đa được xác định là 12.000.000 đồng."
+          }
+        ],
+        "final_answer": "Mức phạt tối đa đối với hành vi đi sai tuyến đường của xe chở người bốn bánh có gắn động cơ là 12.000.000 đồng theo Điều 28.3 Nghị định 168."
+      },
+      {
+        "question": "Người lái xe chở người bốn bánh có gắn động cơ vi phạm lỗi nào sẽ bị trừ 6 điểm giấy phép lái xe?",
+        "initial_reasoning": "Cần tìm hiểu các hành vi vi phạm nào bị trừ 6 điểm giấy phép lái xe theo quy định của Nghị định 168.",
+        "iterations": [
+          {
+            "query": "các lỗi bị trừ điểm giấy phép lái xe xe chở người bốn bánh",
+            "retrieved_documents": [
+              "Điều 28.4: Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị trừ điểm giấy phép lái xe.",
+              "Điều 28.4a: Thực hiện hành vi quy định tại khoản 2 Điều này bị trừ điểm giấy phép lái xe 02 điểm.",
+              "Điều 28.4b: Thực hiện hành vi quy định tại khoản 3 Điều này bị trừ điểm giấy phép lái xe 06 điểm."
+            ],
+            "reasoning": "Điều 28.4b đề cập rằng hành vi quy định tại khoản 3 Điều 28 sẽ bị trừ 6 điểm. Cần xác định hành vi cụ thể trong khoản 3."
+          },
+          {
+            "query": "khoản 3 Điều 28 quy định về hành vi vi phạm nào?",
+            "retrieved_documents": [
+              "Điều 28.3: Phạt tiền từ 8.000.000 đồng đến 12.000.000 đồng đối với hành vi điều khiển xe hoạt động không đúng tuyến đường, lịch trình, thời gian được phép hoạt động hoặc phạm vi hoạt động theo quy định."
+            ],
+            "reasoning": "Khoản 3 Điều 28 xác định hành vi vi phạm là điều khiển xe không đúng tuyến đường, lịch trình hoặc phạm vi hoạt động. Đây là lỗi bị trừ 6 điểm GPLX."
+          }
+        ],
+        "final_answer": "Người lái xe chở người bốn bánh có gắn động cơ sẽ bị trừ 6 điểm giấy phép lái xe nếu vi phạm hành vi điều khiển xe không đúng tuyến đường, lịch trình, thời gian hoặc phạm vi hoạt động theo Điều 28.3 và 28.4b Nghị định 168."
+      },
+      {
+        "question": "Điều khiển xe chở hàng bốn bánh có gắn động cơ mà sử dụng phù hiệu hết hạn có thể bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt tiền và các hình thức xử phạt bổ sung nếu có đối với hành vi sử dụng phù hiệu hết hạn khi điều khiển xe chở hàng bốn bánh có gắn động cơ.",
+        "iterations": [
+          {
+            "query": "mức phạt khi sử dụng phù hiệu hết hạn xe chở hàng bốn bánh",
+            "retrieved_documents": [
+              "Điều 28.2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi điều khiển xe chở hàng bốn bánh có gắn động cơ kinh doanh vận tải sử dụng phù hiệu hết giá trị sử dụng."
+            ],
+            "reasoning": "Hành vi này bị phạt tiền từ 2.000.000 đến 3.000.000 đồng. Cần kiểm tra xem có hình thức xử phạt bổ sung nào không."
+          },
+          {
+            "query": "hình thức xử phạt bổ sung nếu sử dụng phù hiệu hết hạn xe chở hàng bốn bánh",
+            "retrieved_documents": [
+              "Điều 28.4a: Thực hiện hành vi quy định tại khoản 2 Điều này bị trừ điểm giấy phép lái xe 02 điểm."
+            ],
+            "reasoning": "Ngoài bị phạt tiền, người vi phạm còn bị trừ 2 điểm GPLX."
+          }
+        ],
+        "final_answer": "Người điều khiển xe chở hàng bốn bánh có gắn động cơ sử dụng phù hiệu hết hạn sẽ bị phạt từ 2.000.000 đến 3.000.000 đồng và bị trừ 2 điểm giấy phép lái xe theo Điều 28.2 và 28.4a Nghị định 168."
+      },
+      {
+        "question": "Mức phạt đối với xe cứu hộ giao thông không lắp thiết bị ghi nhận hình ảnh là bao nhiêu?",
+        "initial_reasoning": "Cần tìm quy định về mức phạt đối với xe cứu hộ giao thông khi không lắp thiết bị ghi nhận hình ảnh hoặc thiết bị này không hoạt động.",
+        "iterations": [
+          {
+            "query": "Mức phạt xe cứu hộ giao thông không lắp thiết bị ghi nhận hình ảnh",
+            "retrieved_documents": [
+              "Điều 29, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm điều khiển xe ô tô cứu hộ giao thông đường bộ không lắp thiết bị ghi nhận hình ảnh..."
+            ],
+            "reasoning": "Khoản 1, Điều 29 quy định mức phạt là từ 1.000.000 đến 2.000.000 đồng."
+          }
+        ],
+        "final_answer": "Mức phạt đối với xe cứu hộ giao thông không lắp thiết bị ghi nhận hình ảnh là từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Nếu xe cứu hộ giao thông không có thiết bị giám sát hành trình thì bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với xe cứu hộ giao thông khi không có thiết bị giám sát hành trình.",
+        "iterations": [
+          {
+            "query": "Mức phạt xe cứu hộ giao thông không lắp thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 29, Khoản 3: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi vi phạm điều khiển xe ô tô cứu hộ giao thông đường bộ không lắp thiết bị giám sát hành trình..."
+            ],
+            "reasoning": "Khoản 3, Điều 29 quy định mức phạt là từ 3.000.000 đến 5.000.000 đồng."
+          }
+        ],
+        "final_answer": "Mức phạt đối với xe cứu hộ giao thông không có thiết bị giám sát hành trình là từ 3.000.000 đồng đến 5.000.000 đồng."
+      },
+      {
+        "question": "Việc làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh trên xe cứu hộ có bị phạt không?",
+        "initial_reasoning": "Cần xác định xem việc làm sai lệch dữ liệu từ thiết bị ghi nhận hình ảnh có bị xử phạt hay không.",
+        "iterations": [
+          {
+            "query": "Phạt xe cứu hộ làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh",
+            "retrieved_documents": [
+              "Điều 29, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm điều khiển xe ô tô cứu hộ giao thông đường bộ... làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh..."
+            ],
+            "reasoning": "Khoản 1, Điều 29 xác định hành vi làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+          }
+        ],
+        "final_answer": "Hành vi làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh trên xe cứu hộ bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Nếu xe cứu hộ giao thông không có thiết bị cứu hộ theo quy định thì bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm hiểu quy định về xử phạt xe cứu hộ giao thông không có thiết bị cứu hộ.",
+        "iterations": [
+          {
+            "query": "Phạt xe cứu hộ không có thiết bị cứu hộ",
+            "retrieved_documents": [
+              "Điều 29, Khoản 2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi vi phạm điều khiển xe ô tô cứu hộ giao thông đường bộ không có dụng cụ, thiết bị chuyên dùng để cứu hộ..."
+            ],
+            "reasoning": "Khoản 2, Điều 29 quy định mức phạt là từ 2.000.000 đến 3.000.000 đồng."
+          }
+        ],
+        "final_answer": "Mức phạt đối với xe cứu hộ giao thông không có thiết bị cứu hộ là từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Người điều khiển xe cứu hộ vi phạm có bị trừ điểm giấy phép lái xe không?",
+        "initial_reasoning": "Cần xác định xem có quy định nào về việc trừ điểm giấy phép lái xe đối với người điều khiển xe cứu hộ vi phạm.",
+        "iterations": [
+          {
+            "query": "Trừ điểm GPLX khi xe cứu hộ vi phạm",
+            "retrieved_documents": [
+              "Điều 29, Khoản 4: Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi quy định tại khoản 3 Điều này bị trừ điểm giấy phép lái xe 02 điểm."
+            ],
+            "reasoning": "Khoản 4, Điều 29 quy định nếu vi phạm Khoản 3 (không lắp hoặc làm sai lệch thiết bị giám sát hành trình) thì bị trừ 2 điểm GPLX."
+          }
+        ],
+        "final_answer": "Người điều khiển xe cứu hộ vi phạm Khoản 3 Điều 29 bị trừ 2 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Nếu xe cứu hộ không lắp thiết bị giám sát hành trình và làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh thì bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt riêng cho từng vi phạm: không lắp thiết bị giám sát hành trình và làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh.",
+        "iterations": [
+          {
+            "query": "Mức phạt xe cứu hộ không lắp thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 29, Khoản 3: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi vi phạm điều khiển xe ô tô cứu hộ giao thông đường bộ không lắp thiết bị giám sát hành trình..."
+            ],
+            "reasoning": "Mức phạt từ 3.000.000 đến 5.000.000 đồng đối với lỗi không lắp thiết bị giám sát hành trình."
+          },
+          {
+            "query": "Phạt xe cứu hộ làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh",
+            "retrieved_documents": [
+              "Điều 29, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm làm sai lệch dữ liệu của thiết bị ghi nhận hình ảnh..."
+            ],
+            "reasoning": "Mức phạt từ 1.000.000 đến 2.000.000 đồng đối với lỗi làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh."
+          }
+        ],
+        "final_answer": "Người điều khiển xe cứu hộ vi phạm cả hai lỗi sẽ bị phạt từ 4.000.000 đồng đến 7.000.000 đồng."
+      },
+      {
+        "question": "Nếu xe cứu hộ không lắp thiết bị giám sát hành trình và không có dụng cụ cứu hộ thì mức phạt là bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt riêng cho từng vi phạm: không có thiết bị giám sát hành trình và không có dụng cụ cứu hộ.",
+        "iterations": [
+          {
+            "query": "Phạt xe cứu hộ không lắp thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 29, Khoản 3: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi vi phạm không lắp thiết bị giám sát hành trình..."
+            ],
+            "reasoning": "Lỗi không lắp thiết bị giám sát hành trình bị phạt từ 3.000.000 đến 5.000.000 đồng."
+          },
+          {
+            "query": "Phạt xe cứu hộ không có dụng cụ cứu hộ",
+            "retrieved_documents": [
+              "Điều 29, Khoản 2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi vi phạm không có dụng cụ, thiết bị chuyên dùng để cứu hộ..."
+            ],
+            "reasoning": "Lỗi không có dụng cụ cứu hộ bị phạt từ 2.000.000 đến 3.000.000 đồng."
+          }
+        ],
+        "final_answer": "Mức phạt tổng cộng từ 5.000.000 đến 8.000.000 đồng."
+      },
+      {
+        "question": "Xe cứu hộ vừa không lắp thiết bị giám sát hành trình vừa bị trừ điểm giấy phép lái xe. Tổng mức xử phạt là bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt của lỗi không lắp thiết bị giám sát hành trình và xem lỗi này có dẫn đến trừ điểm GPLX hay không.",
+        "iterations": [
+          {
+            "query": "Phạt xe cứu hộ không lắp thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 29, Khoản 3: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi vi phạm không lắp thiết bị giám sát hành trình..."
+            ],
+            "reasoning": "Lỗi này bị phạt từ 3.000.000 đến 5.000.000 đồng."
+          },
+          {
+            "query": "Xe cứu hộ vi phạm có bị trừ điểm giấy phép lái xe không?",
+            "retrieved_documents": [
+              "Điều 29, Khoản 4: Người điều khiển phương tiện thực hiện hành vi quy định tại khoản 3 bị trừ 02 điểm giấy phép lái xe."
+            ],
+            "reasoning": "Ngoài bị phạt tiền, người điều khiển còn bị trừ 2 điểm GPLX."
+          }
+        ],
+        "final_answer": "Tổng mức xử phạt từ 3.000.000 đến 5.000.000 đồng và bị trừ 2 điểm giấy phép lái xe."
+      },
+      {
+        "question": "Nếu xe cứu hộ vi phạm cả ba lỗi: không có thiết bị giám sát hành trình, không có dụng cụ cứu hộ, và làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh thì tổng mức phạt là bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt của từng lỗi riêng lẻ để tính tổng mức phạt.",
+        "iterations": [
+          {
+            "query": "Phạt xe cứu hộ không lắp thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 29, Khoản 3: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng..."
+            ],
+            "reasoning": "Lỗi này bị phạt từ 3.000.000 đến 5.000.000 đồng."
+          },
+          {
+            "query": "Phạt xe cứu hộ không có dụng cụ cứu hộ",
+            "retrieved_documents": [
+              "Điều 29, Khoản 2: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng..."
+            ],
+            "reasoning": "Lỗi này bị phạt từ 2.000.000 đến 3.000.000 đồng."
+          },
+          {
+            "query": "Phạt xe cứu hộ làm sai lệch dữ liệu thiết bị ghi nhận hình ảnh",
+            "retrieved_documents": [
+              "Điều 29, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng..."
+            ],
+            "reasoning": "Lỗi này bị phạt từ 1.000.000 đến 2.000.000 đồng."
+          }
+        ],
+        "final_answer": "Tổng mức phạt từ 6.000.000 đến 10.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe cứu thương không lắp thiết bị ghi nhận hình ảnh bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt cho hành vi điều khiển xe cứu thương không lắp thiết bị ghi nhận hình ảnh.",
+        "iterations": [
+          {
+            "query": "mức phạt xe cứu thương không lắp thiết bị ghi nhận hình ảnh",
+            "retrieved_documents": [
+              "Điều 30, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Đã tìm thấy mức phạt cho hành vi này trong Điều 30, Khoản 1. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng theo Điều 30, Khoản 1."
+      },
+      {
+        "question": "Nếu xe cứu thương có lắp thiết bị ghi nhận hình ảnh nhưng không hoạt động, tài xế bị phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt nếu thiết bị ghi nhận hình ảnh không có tác dụng khi tham gia giao thông.",
+        "iterations": [
+          {
+            "query": "mức phạt thiết bị ghi nhận hình ảnh không hoạt động xe cứu thương",
+            "retrieved_documents": [
+              "Điều 30, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Khoản 1 của Điều 30 quy định mức phạt tương tự khi thiết bị ghi nhận hình ảnh không có tác dụng. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng theo Điều 30, Khoản 1."
+      },
+      {
+        "question": "Điều khiển xe cứu thương không lắp thiết bị giám sát hành trình bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hành vi không lắp thiết bị giám sát hành trình trên xe cứu thương.",
+        "iterations": [
+          {
+            "query": "mức phạt xe cứu thương không lắp thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 30, Khoản 2: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Khoản 2 của Điều 30 đã quy định mức phạt cho hành vi này. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng theo Điều 30, Khoản 2."
+      },
+      {
+        "question": "Xe cứu thương có lắp thiết bị giám sát hành trình nhưng không hoạt động bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt khi xe cứu thương có thiết bị giám sát hành trình nhưng không hoạt động đúng quy định.",
+        "iterations": [
+          {
+            "query": "mức phạt xe cứu thương có thiết bị giám sát hành trình nhưng không hoạt động",
+            "retrieved_documents": [
+              "Điều 30, Khoản 2: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Khoản 2 của Điều 30 cũng áp dụng cho trường hợp này. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng theo Điều 30, Khoản 2."
+      },
+      {
+        "question": "Làm sai lệch dữ liệu của thiết bị giám sát hành trình trên xe cứu thương bị phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt khi làm sai lệch dữ liệu của thiết bị giám sát hành trình trên xe cứu thương.",
+        "iterations": [
+          {
+            "query": "mức phạt làm sai lệch dữ liệu thiết bị giám sát hành trình xe cứu thương",
+            "retrieved_documents": [
+              "Điều 30, Khoản 2: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Khoản 2 của Điều 30 cũng áp dụng trong trường hợp này. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng theo Điều 30, Khoản 2."
+      },
+      {
+        "question": "Tài xế xe cứu thương bị trừ bao nhiêu điểm GPLX nếu vi phạm quy định về thiết bị giám sát hành trình?",
+        "initial_reasoning": "Cần xác định mức trừ điểm giấy phép lái xe khi vi phạm liên quan đến thiết bị giám sát hành trình trên xe cứu thương.",
+        "iterations": [
+          {
+            "query": "mức trừ điểm GPLX xe cứu thương vi phạm thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 30, Khoản 3: Trừ 02 điểm GPLX."
+            ],
+            "reasoning": "Khoản 3 của Điều 30 quy định trừ 02 điểm GPLX khi vi phạm Khoản 2. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Tài xế bị trừ 02 điểm GPLX theo Điều 30, Khoản 3."
+      },
+      {
+        "question": "Điều khiển xe cứu thương không lắp thiết bị ghi nhận hình ảnh bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt cho hành vi điều khiển xe cứu thương không lắp thiết bị ghi nhận hình ảnh.",
+        "iterations": [
+          {
+            "query": "mức phạt xe cứu thương không lắp thiết bị ghi nhận hình ảnh",
+            "retrieved_documents": [
+              "Điều 30, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Đã tìm thấy mức phạt cho hành vi này trong Điều 30, Khoản 1. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng theo Điều 30, Khoản 1."
+      },
+      {
+        "question": "Nếu xe cứu thương có lắp thiết bị ghi nhận hình ảnh nhưng không hoạt động, tài xế bị phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt nếu thiết bị ghi nhận hình ảnh không có tác dụng khi tham gia giao thông.",
+        "iterations": [
+          {
+            "query": "mức phạt thiết bị ghi nhận hình ảnh không hoạt động xe cứu thương",
+            "retrieved_documents": [
+              "Điều 30, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Khoản 1 của Điều 30 quy định mức phạt tương tự khi thiết bị ghi nhận hình ảnh không có tác dụng. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng theo Điều 30, Khoản 1."
+      },
+      {
+        "question": "Điều khiển xe cứu thương không lắp thiết bị giám sát hành trình bị xử phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt cho hành vi không lắp thiết bị giám sát hành trình trên xe cứu thương.",
+        "iterations": [
+          {
+            "query": "mức phạt xe cứu thương không lắp thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 30, Khoản 2: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Khoản 2 của Điều 30 đã quy định mức phạt cho hành vi này. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng theo Điều 30, Khoản 2."
+      },
+      {
+        "question": "Nếu xe cứu thương vừa không có thiết bị ghi nhận hình ảnh vừa không có thiết bị giám sát hành trình, mức phạt thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt riêng cho từng vi phạm và sau đó tổng hợp lại.",
+        "iterations": [
+          {
+            "query": "mức phạt xe cứu thương không lắp thiết bị ghi nhận hình ảnh",
+            "retrieved_documents": [
+              "Điều 30, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng."
+            ],
+            "reasoning": "Đã xác định mức phạt cho vi phạm không có thiết bị ghi nhận hình ảnh. Cần tìm tiếp mức phạt cho vi phạm còn lại."
+          },
+          {
+            "query": "mức phạt xe cứu thương không lắp thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 30, Khoản 2: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+            ],
+            "reasoning": "Đã xác định mức phạt cho cả hai vi phạm. Có thể tổng hợp thành câu trả lời cuối cùng."
+          }
+        ],
+        "final_answer": "Tài xế bị phạt tổng cộng từ 4.000.000 đồng đến 7.000.000 đồng theo Điều 30, Khoản 1 và Khoản 2."
+      },
+      {
+        "question": "Tài xế xe cứu thương bị trừ điểm GPLX nếu vi phạm đồng thời cả hai thiết bị trên xe không hoạt động không?",
+        "initial_reasoning": "Cần tìm xem nếu vi phạm cả hai thiết bị thì có bị trừ điểm GPLX hay không.",
+        "iterations": [
+          {
+            "query": "mức trừ điểm GPLX xe cứu thương vi phạm thiết bị giám sát hành trình",
+            "retrieved_documents": [
+              "Điều 30, Khoản 3: Trừ 02 điểm GPLX."
+            ],
+            "reasoning": "Khoản 3 chỉ áp dụng cho vi phạm thiết bị giám sát hành trình, không đề cập đến thiết bị ghi nhận hình ảnh. Không cần tìm thêm."
+          }
+        ],
+        "final_answer": "Tài xế bị trừ 02 điểm GPLX nếu vi phạm liên quan đến thiết bị giám sát hành trình, theo Điều 30, Khoản 3."
+      },
+      {
+        "question": "Mức phạt đối với cá nhân mua bán biển số xe trái phép là bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt áp dụng cho cá nhân có hành vi mua, bán biển số xe không hợp pháp.",
+        "iterations": [
+          {
+            "query": "Mua bán biển số xe trái phép bị phạt bao nhiêu?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 1: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân..."
+            ],
+            "reasoning": "Thông tin tìm thấy tại Điều 31 Khoản 1, xác định mức phạt từ 10-12 triệu đồng cho cá nhân vi phạm."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 1 Nghị định 168, cá nhân mua bán biển số xe trái phép bị phạt từ 10.000.000 đồng đến 12.000.000 đồng."
+      },
+      {
+        "question": "Nếu một công ty sản xuất biển số trái phép, họ sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt đối với tổ chức thực hiện hành vi sản xuất biển số trái phép.",
+        "iterations": [
+          {
+            "query": "Sản xuất biển số xe trái phép bị xử phạt thế nào?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 2: Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với tổ chức..."
+            ],
+            "reasoning": "Xác định mức phạt từ 80-100 triệu đồng đối với tổ chức sản xuất biển số trái phép."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 2 Nghị định 168, tổ chức sản xuất biển số trái phép bị phạt từ 80.000.000 đồng đến 100.000.000 đồng."
+      },
+      {
+        "question": "Ngoài tiền phạt, cá nhân sản xuất biển số trái phép còn bị áp dụng biện pháp nào khác?",
+        "initial_reasoning": "Cần xác định các hình thức xử phạt bổ sung đối với cá nhân vi phạm.",
+        "iterations": [
+          {
+            "query": "Cá nhân sản xuất biển số trái phép bị áp dụng hình thức xử phạt nào khác?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 3: Ngoài việc bị phạt tiền, cá nhân vi phạm còn bị tịch thu biển số, phương tiện sản xuất."
+            ],
+            "reasoning": "Cá nhân vi phạm sẽ bị tịch thu biển số và phương tiện sản xuất."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 3 Nghị định 168, cá nhân sản xuất biển số trái phép sẽ bị tịch thu biển số và phương tiện sản xuất."
+      },
+      {
+        "question": "Tổ chức bị phạt vì mua bán biển số xe trái phép sẽ bị xử phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt áp dụng cho tổ chức có hành vi mua, bán biển số xe trái phép.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với tổ chức mua bán biển số xe trái phép?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 1: Phạt tiền từ 20.000.000 đồng đến 24.000.000 đồng đối với tổ chức..."
+            ],
+            "reasoning": "Mức phạt áp dụng cho tổ chức cao hơn cá nhân, từ 20-24 triệu đồng."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 1 Nghị định 168, tổ chức mua bán biển số xe trái phép bị phạt từ 20.000.000 đồng đến 24.000.000 đồng."
+      },
+      {
+        "question": "Nếu tôi lắp ráp phương tiện giao thông cơ giới trái phép, tôi sẽ bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt áp dụng cho cá nhân thực hiện hành vi lắp ráp trái phép phương tiện giao thông cơ giới.",
+        "iterations": [
+          {
+            "query": "Lắp ráp phương tiện giao thông trái phép bị phạt bao nhiêu?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 2: Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với cá nhân..."
+            ],
+            "reasoning": "Mức phạt đối với cá nhân vi phạm dao động từ 40-50 triệu đồng."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 2 Nghị định 168, cá nhân lắp ráp phương tiện giao thông cơ giới trái phép bị phạt từ 40.000.000 đồng đến 50.000.000 đồng."
+      },
+      {
+        "question": "Có biện pháp khắc phục hậu quả nào áp dụng với cá nhân sản xuất biển số trái phép không?",
+        "initial_reasoning": "Cần xác định các biện pháp khắc phục hậu quả đối với cá nhân vi phạm.",
+        "iterations": [
+          {
+            "query": "Biện pháp khắc phục hậu quả đối với cá nhân sản xuất biển số trái phép?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 4: Cá nhân vi phạm còn bị buộc nộp lại số lợi bất hợp pháp có được."
+            ],
+            "reasoning": "Ngoài xử phạt hành chính, cá nhân vi phạm còn bị buộc nộp lại số lợi bất hợp pháp."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 4 Nghị định 168, cá nhân sản xuất biển số trái phép bị buộc nộp lại số lợi bất hợp pháp có được."
+      },
+      {
+        "question": "Tổ chức lắp ráp phương tiện giao thông trái phép bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt áp dụng cho tổ chức thực hiện hành vi lắp ráp phương tiện giao thông cơ giới trái phép.",
+        "iterations": [
+          {
+            "query": "Tổ chức lắp ráp phương tiện giao thông trái phép bị phạt bao nhiêu?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 2: Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với tổ chức..."
+            ],
+            "reasoning": "Xác định mức phạt từ 80-100 triệu đồng đối với tổ chức vi phạm."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 2 Nghị định 168, tổ chức lắp ráp phương tiện giao thông cơ giới trái phép bị phạt từ 80.000.000 đồng đến 100.000.000 đồng."
+      },
+      {
+        "question": "Nếu tôi mua biển số xe giả và sau đó sử dụng nó, tôi sẽ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần xác định mức phạt đối với hành vi mua biển số xe trái phép và xem xét có quy định nào liên quan đến hành vi sử dụng biển số xe giả hay không.",
+        "iterations": [
+          {
+            "query": "Mức phạt khi mua biển số xe trái phép?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 1: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân..."
+            ],
+            "reasoning": "Mua biển số xe trái phép bị phạt 10-12 triệu đồng, nhưng chưa rõ về việc sử dụng biển số giả."
+          },
+          {
+            "query": "Hành vi sử dụng biển số xe giả có bị xử phạt không?",
+            "retrieved_documents": [],
+            "reasoning": "Không có thông tin về việc sử dụng biển số giả trong đoạn trích từ Nghị định 168, có thể cần tham khảo văn bản khác."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 1 Nghị định 168, mua biển số xe trái phép bị phạt từ 10.000.000 đồng đến 12.000.000 đồng. Tuy nhiên, việc sử dụng biển số giả không được đề cập trong đoạn trích này."
+      },
+      {
+        "question": "Một công ty vừa sản xuất vừa bán biển số xe trái phép thì bị xử phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt riêng cho hành vi sản xuất và hành vi mua bán biển số trái phép, sau đó xác định tổng mức phạt khi vi phạm cả hai hành vi.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với tổ chức sản xuất biển số trái phép?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 2: Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với tổ chức..."
+            ],
+            "reasoning": "Tổ chức sản xuất biển số trái phép bị phạt từ 80-100 triệu đồng, nhưng chưa có thông tin về hành vi mua bán."
+          },
+          {
+            "query": "Mức phạt đối với tổ chức mua bán biển số trái phép?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 1: Phạt tiền từ 20.000.000 đồng đến 24.000.000 đồng đối với tổ chức..."
+            ],
+            "reasoning": "Tổ chức mua bán biển số trái phép bị phạt từ 20-24 triệu đồng. Nếu vi phạm cả hai hành vi, tổng mức phạt có thể từ 100-124 triệu đồng."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 1 và 2 Nghị định 168, nếu một công ty vừa sản xuất vừa bán biển số trái phép, họ có thể bị phạt từ 100.000.000 đồng đến 124.000.000 đồng."
+      },
+      {
+        "question": "Nếu tôi sản xuất phương tiện giao thông trái phép thì ngoài bị phạt tiền, tôi còn bị xử lý thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt tiền đối với hành vi sản xuất phương tiện trái phép, sau đó kiểm tra xem có hình thức xử phạt bổ sung nào không.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với cá nhân sản xuất phương tiện giao thông trái phép?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 2: Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với cá nhân..."
+            ],
+            "reasoning": "Mức phạt cho cá nhân vi phạm là 40-50 triệu đồng, nhưng cần tìm thêm thông tin về các hình thức xử phạt bổ sung."
+          },
+          {
+            "query": "Có hình thức xử phạt bổ sung nào đối với cá nhân sản xuất phương tiện trái phép không?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 3: Ngoài việc bị phạt tiền, cá nhân vi phạm còn bị tịch thu phương tiện sản xuất trái phép."
+            ],
+            "reasoning": "Ngoài bị phạt tiền, cá nhân sản xuất phương tiện trái phép còn bị tịch thu phương tiện đó."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 2 và 3 Nghị định 168, cá nhân sản xuất phương tiện giao thông trái phép bị phạt từ 40.000.000 đồng đến 50.000.000 đồng và bị tịch thu phương tiện sản xuất trái phép."
+      },
+      {
+        "question": "Nếu công ty tôi bị xử phạt vì sản xuất phương tiện trái phép, chúng tôi có phải trả lại số tiền thu được từ việc vi phạm không?",
+        "initial_reasoning": "Cần xác định có biện pháp buộc nộp lại số lợi bất hợp pháp hay không đối với hành vi sản xuất phương tiện trái phép.",
+        "iterations": [
+          {
+            "query": "Công ty sản xuất phương tiện trái phép bị phạt bao nhiêu?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 2: Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với tổ chức..."
+            ],
+            "reasoning": "Tổ chức vi phạm bị phạt từ 80-100 triệu đồng, nhưng chưa có thông tin về việc nộp lại số lợi bất hợp pháp."
+          },
+          {
+            "query": "Có biện pháp nào buộc tổ chức nộp lại số lợi bất hợp pháp khi vi phạm không?",
+            "retrieved_documents": [
+              "Điều 31 Khoản 4: Tổ chức vi phạm còn bị buộc nộp lại số lợi bất hợp pháp có được."
+            ],
+            "reasoning": "Ngoài phạt tiền, tổ chức vi phạm còn phải nộp lại số lợi bất hợp pháp thu được từ hành vi vi phạm."
+          }
+        ],
+        "final_answer": "Theo Điều 31 Khoản 2 và 4 Nghị định 168, công ty bị xử phạt vì sản xuất phương tiện trái phép sẽ phải nộp phạt từ 80.000.000 đồng đến 100.000.000 đồng và nộp lại số lợi bất hợp pháp có được từ hành vi vi phạm."
+      },
+      {
+        "question": "Chủ xe mô tô tự ý thay đổi màu sơn xe không đúng với đăng ký bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt cho hành vi thay đổi màu sơn xe mô tô không đúng với chứng nhận đăng ký.",
+        "iterations": [
+          {
+            "query": "Mức phạt thay đổi màu sơn xe mô tô Nghị định 168",
+            "retrieved_documents": [
+              "Điều 32, Khoản 1, Điểm a: Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với cá nhân nếu tự ý thay đổi nhãn hiệu, màu sơn của xe không đúng với chứng nhận đăng ký xe."
+            ],
+            "reasoning": "Tìm thấy mức phạt cụ thể trong Điều 32, Khoản 1, Điểm a. Không cần thêm thông tin khác."
+          }
+        ],
+        "final_answer": "Chủ xe mô tô tự ý thay đổi màu sơn xe không đúng với chứng nhận đăng ký sẽ bị phạt từ 200.000 đồng đến 300.000 đồng."
+      },
+      {
+        "question": "Chủ xe ô tô lắp kính chắn gió không phải loại kính an toàn bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với hành vi lắp kính chắn gió không phải loại kính an toàn cho xe ô tô.",
+        "iterations": [
+          {
+            "query": "Phạt lỗi lắp kính chắn gió không an toàn xe ô tô Nghị định 168",
+            "retrieved_documents": [
+              "Điều 32, Khoản 2, Điểm a: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với cá nhân nếu lắp kính chắn gió, kính cửa của xe không phải là loại kính an toàn."
+            ],
+            "reasoning": "Mức phạt đã được xác định trong Điều 32, Khoản 2, Điểm a, không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Chủ xe ô tô lắp kính chắn gió không phải loại kính an toàn bị phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Không làm thủ tục đổi chứng nhận đăng ký xe theo quy định thì bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với lỗi không làm thủ tục đổi chứng nhận đăng ký xe theo quy định.",
+        "iterations": [
+          {
+            "query": "Phạt lỗi không đổi chứng nhận đăng ký xe Nghị định 168",
+            "retrieved_documents": [
+              "Điều 32, Khoản 3, Điểm b: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân nếu không làm thủ tục đổi chứng nhận đăng ký xe, biển số xe theo quy định."
+            ],
+            "reasoning": "Thông tin đầy đủ từ Điều 32, Khoản 3, Điểm b, không cần tìm kiếm thêm."
+          }
+        ],
+        "final_answer": "Không làm thủ tục đổi chứng nhận đăng ký xe theo quy định bị phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Chủ phương tiện giao xe cho người khác điều khiển chở quá số người quy định bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt đối với chủ phương tiện giao xe cho người khác chở quá số người quy định.",
+        "iterations": [
+          {
+            "query": "Phạt lỗi giao xe chở quá số người quy định Nghị định 168",
+            "retrieved_documents": [
+              "Điều 32, Khoản 5: Phạt tiền từ 800.000 đồng đến 1.200.000 đồng trên mỗi người vượt quá quy định được phép chở nhưng tổng mức phạt tiền tối đa không vượt quá 75.000.000 đồng đối với cá nhân."
+            ],
+            "reasoning": "Tìm thấy mức phạt trong Điều 32, Khoản 5. Không cần tìm kiếm thêm."
+          }
+        ],
+        "final_answer": "Chủ phương tiện giao xe cho người khác điều khiển chở quá số người quy định bị phạt từ 800.000 đồng đến 1.200.000 đồng trên mỗi người vượt quá quy định, nhưng không quá 75.000.000 đồng."
+      },
+      {
+        "question": "Chủ xe mô tô tự ý thay đổi màu sơn xe không đúng với đăng ký bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt cho hành vi thay đổi màu sơn xe mô tô không đúng với chứng nhận đăng ký.",
+        "iterations": [
+          {
+            "query": "Mức phạt thay đổi màu sơn xe mô tô Nghị định 168",
+            "retrieved_documents": [
+              "Điều 32, Khoản 1, Điểm a: Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với cá nhân nếu tự ý thay đổi nhãn hiệu, màu sơn của xe không đúng với chứng nhận đăng ký xe."
+            ],
+            "reasoning": "Tìm thấy mức phạt cụ thể trong Điều 32, Khoản 1, Điểm a. Không cần thêm thông tin khác."
+          }
+        ],
+        "final_answer": "Chủ xe mô tô tự ý thay đổi màu sơn xe không đúng với chứng nhận đăng ký sẽ bị phạt từ 200.000 đồng đến 300.000 đồng."
+      },
+      {
+        "question": "Chủ xe ô tô lắp kính chắn gió không phải loại kính an toàn bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với hành vi lắp kính chắn gió không phải loại kính an toàn cho xe ô tô.",
+        "iterations": [
+          {
+            "query": "Phạt lỗi lắp kính chắn gió không an toàn xe ô tô Nghị định 168",
+            "retrieved_documents": [
+              "Điều 32, Khoản 2, Điểm a: Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với cá nhân nếu lắp kính chắn gió, kính cửa của xe không phải là loại kính an toàn."
+            ],
+            "reasoning": "Mức phạt đã được xác định trong Điều 32, Khoản 2, Điểm a, không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Chủ xe ô tô lắp kính chắn gió không phải loại kính an toàn bị phạt từ 300.000 đồng đến 400.000 đồng."
+      },
+      {
+        "question": "Không làm thủ tục đổi chứng nhận đăng ký xe theo quy định thì bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với lỗi không làm thủ tục đổi chứng nhận đăng ký xe theo quy định.",
+        "iterations": [
+          {
+            "query": "Phạt lỗi không đổi chứng nhận đăng ký xe Nghị định 168",
+            "retrieved_documents": [
+              "Điều 32, Khoản 3, Điểm b: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân nếu không làm thủ tục đổi chứng nhận đăng ký xe, biển số xe theo quy định."
+            ],
+            "reasoning": "Thông tin đầy đủ từ Điều 32, Khoản 3, Điểm b, không cần tìm kiếm thêm."
+          }
+        ],
+        "final_answer": "Không làm thủ tục đổi chứng nhận đăng ký xe theo quy định bị phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Chủ phương tiện giao xe cho người khác điều khiển chở quá số người quy định bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt đối với chủ phương tiện giao xe cho người khác chở quá số người quy định.",
+        "iterations": [
+          {
+            "query": "Phạt lỗi giao xe chở quá số người quy định Nghị định 168",
+            "retrieved_documents": [
+              "Điều 32, Khoản 5: Phạt tiền từ 800.000 đồng đến 1.200.000 đồng trên mỗi người vượt quá quy định được phép chở nhưng tổng mức phạt tiền tối đa không vượt quá 75.000.000 đồng đối với cá nhân."
+            ],
+            "reasoning": "Tìm thấy mức phạt trong Điều 32, Khoản 5. Không cần tìm kiếm thêm."
+          }
+        ],
+        "final_answer": "Chủ phương tiện giao xe cho người khác điều khiển chở quá số người quy định bị phạt từ 800.000 đồng đến 1.200.000 đồng trên mỗi người vượt quá quy định, nhưng không quá 75.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe vượt đèn đỏ bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần xác định mức phạt đối với lỗi vượt đèn đỏ.",
+        "iterations": [
+          {
+            "query": "Mức phạt vượt đèn đỏ Nghị định 100",
+            "retrieved_documents": [],
+            "reasoning": "Không tìm thấy kết quả cụ thể, cần mở rộng truy vấn."
+          },
+          {
+            "query": "Lỗi vượt đèn đỏ ô tô xe máy Nghị định 100 2023",
+            "retrieved_documents": [
+              "Điều 5, Khoản 5, Điểm a: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với ô tô vượt đèn đỏ."
+            ],
+            "reasoning": "Đã tìm thấy mức phạt đối với ô tô, cần thêm thông tin về xe máy."
+          },
+          {
+            "query": "Phạt xe máy vượt đèn đỏ Nghị định 100 2023",
+            "retrieved_documents": [
+              "Điều 6, Khoản 4, Điểm a: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với xe máy vượt đèn đỏ."
+            ],
+            "reasoning": "Đã có thông tin đầy đủ về mức phạt cho cả ô tô và xe máy."
+          }
+        ],
+        "final_answer": "Ô tô vượt đèn đỏ bị phạt từ 4.000.000 đồng đến 6.000.000 đồng, xe máy bị phạt từ 800.000 đồng đến 1.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với cá nhân đưa xe không có giấy chứng nhận kiểm định an toàn kỹ thuật tham gia giao thông là bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với cá nhân đưa xe không có giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường tham gia giao thông. Nội dung này có thể nằm trong các quy định xử phạt về phương tiện không đủ điều kiện lưu thông.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với xe không có giấy chứng nhận kiểm định an toàn kỹ thuật",
+            "retrieved_documents": [
+              "Điểm a khoản 11: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân nếu đưa xe cơ giới, xe máy chuyên dùng không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường tham gia giao thông."
+            ],
+            "reasoning": "Thông tin trả về xác nhận rằng hành vi này bị phạt theo khoản 11, với mức phạt từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân. Không cần thêm truy vấn."
+          }
+        ],
+        "final_answer": "Cá nhân đưa xe không có giấy chứng nhận kiểm định an toàn kỹ thuật tham gia giao thông sẽ bị phạt từ 10.000.000 đồng đến 12.000.000 đồng theo điểm a khoản 11."
+      },
+      {
+        "question": "Chủ xe mô tô sẽ bị xử phạt như thế nào nếu giao xe cho người không đủ điều kiện lái xe?",
+        "initial_reasoning": "Cần tìm mức phạt áp dụng đối với chủ xe mô tô khi giao phương tiện cho người không đủ điều kiện điều khiển xe. Nội dung này có thể nằm trong quy định về trách nhiệm của chủ phương tiện giao xe cho người không có bằng lái hoặc bị tước bằng."
+        ,
+        "iterations": [
+          {
+            "query": "Mức phạt đối với chủ xe mô tô giao xe cho người không đủ điều kiện lái xe",
+            "retrieved_documents": [
+              "Khoản 10: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với cá nhân là chủ xe mô tô khi giao xe hoặc để cho người không đủ điều kiện theo quy định tại khoản 1 Điều 56 của Luật Trật tự, an toàn giao thông đường bộ điều khiển xe."
+            ],
+            "reasoning": "Tài liệu trả về xác nhận rằng mức phạt cho hành vi này nằm trong khoản 10 với mức từ 8.000.000 đồng đến 10.000.000 đồng. Không cần thêm truy vấn."
+          }
+        ],
+        "final_answer": "Chủ xe mô tô giao xe cho người không đủ điều kiện lái xe sẽ bị phạt từ 8.000.000 đồng đến 10.000.000 đồng theo khoản 10."
+      },
+      {
+        "question": "Mức phạt đối với cá nhân đưa xe không có giấy chứng nhận kiểm định an toàn kỹ thuật tham gia giao thông là bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với cá nhân đưa xe không có giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường tham gia giao thông. Nội dung này có thể nằm trong các quy định xử phạt về phương tiện không đủ điều kiện lưu thông.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với xe không có giấy chứng nhận kiểm định an toàn kỹ thuật",
+            "retrieved_documents": [
+              "Điểm a khoản 11: Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân nếu đưa xe cơ giới, xe máy chuyên dùng không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường tham gia giao thông."
+            ],
+            "reasoning": "Thông tin trả về xác nhận rằng hành vi này bị phạt theo khoản 11, với mức phạt từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân. Không cần thêm truy vấn."
+          }
+        ],
+        "final_answer": "Cá nhân đưa xe không có giấy chứng nhận kiểm định an toàn kỹ thuật tham gia giao thông sẽ bị phạt từ 10.000.000 đồng đến 12.000.000 đồng theo điểm a khoản 11."
+      },
+      {
+        "question": "Chủ xe mô tô sẽ bị xử phạt như thế nào nếu giao xe cho người không đủ điều kiện lái xe?",
+        "initial_reasoning": "Cần tìm mức phạt áp dụng đối với chủ xe mô tô khi giao phương tiện cho người không đủ điều kiện điều khiển xe. Nội dung này có thể nằm trong quy định về trách nhiệm của chủ phương tiện giao xe cho người không có bằng lái hoặc bị tước bằng.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với chủ xe mô tô giao xe cho người không đủ điều kiện lái xe",
+            "retrieved_documents": [
+              "Khoản 10: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với cá nhân là chủ xe mô tô khi giao xe hoặc để cho người không đủ điều kiện theo quy định tại khoản 1 Điều 56 của Luật Trật tự, an toàn giao thông đường bộ điều khiển xe."
+            ],
+            "reasoning": "Tài liệu trả về xác nhận rằng mức phạt cho hành vi này nằm trong khoản 10 với mức từ 8.000.000 đồng đến 10.000.000 đồng. Không cần thêm truy vấn."
+          }
+        ],
+        "final_answer": "Chủ xe mô tô giao xe cho người không đủ điều kiện lái xe sẽ bị phạt từ 8.000.000 đồng đến 10.000.000 đồng theo khoản 10."
+      },
+      {
+        "question": "Mức phạt khi không chấp hành hiệu lệnh của cảnh sát giao thông?",
+        "initial_reasoning": "Cần xác định mức phạt khi không tuân thủ hiệu lệnh của cảnh sát giao thông, có thể nằm trong quy định xử phạt về hành vi chống đối lực lượng chức năng.",
+        "iterations": [
+          {
+            "query": "Mức phạt không chấp hành hiệu lệnh cảnh sát giao thông",
+            "retrieved_documents": [
+              "Khoản 3 Điều 6: Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi không chấp hành hiệu lệnh của người điều khiển giao thông."
+            ],
+            "reasoning": "Tài liệu trả về có mức phạt, nhưng cần kiểm tra nếu có tình tiết tăng nặng."
+          },
+          {
+            "query": "Mức phạt nếu không chấp hành hiệu lệnh cảnh sát giao thông có tình tiết tăng nặng",
+            "retrieved_documents": [
+              "Khoản 10 Điều 6: Nếu gây tai nạn hoặc có hành vi cản trở nhiệm vụ của lực lượng chức năng, mức phạt từ 10.000.000 đồng đến 15.000.000 đồng."
+            ],
+            "reasoning": "Có thêm thông tin về tình tiết tăng nặng, cần bổ sung vào câu trả lời."
+          }
+        ],
+        "final_answer": "Mức phạt không chấp hành hiệu lệnh cảnh sát giao thông là từ 4.000.000 đồng đến 6.000.000 đồng. Nếu có tình tiết tăng nặng như gây tai nạn hoặc cản trở nhiệm vụ của cảnh sát, mức phạt là từ 10.000.000 đồng đến 15.000.000 đồng."
+      },
+      {
+        "question": "Mức phạt nếu điều khiển xe chạy quá tốc độ cho phép?",
+        "initial_reasoning": "Cần tìm mức phạt đối với hành vi chạy quá tốc độ cho phép, có thể phụ thuộc vào mức độ vi phạm.",
+        "iterations": [
+          {
+            "query": "Mức phạt chạy quá tốc độ dưới 10km/h",
+            "retrieved_documents": [
+              "Khoản 5 Điều 9: Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với hành vi chạy quá tốc độ dưới 10km/h."
+            ],
+            "reasoning": "Tìm thêm thông tin nếu tốc độ vượt quá 10km/h."
+          },
+          {
+            "query": "Mức phạt chạy quá tốc độ từ 10km/h đến 20km/h",
+            "retrieved_documents": [
+              "Khoản 6 Điều 9: Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng nếu chạy quá tốc độ từ 10km/h đến 20km/h."
+            ],
+            "reasoning": "Cần kiểm tra mức phạt nếu vượt quá 20km/h."
+          },
+          {
+            "query": "Mức phạt chạy quá tốc độ trên 20km/h",
+            "retrieved_documents": [
+              "Khoản 7 Điều 9: Phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng nếu chạy quá tốc độ trên 20km/h."
+            ],
+            "reasoning": "Đã có đủ thông tin về các mức phạt khác nhau theo mức độ vi phạm."
+          }
+        ],
+        "final_answer": "Mức phạt chạy quá tốc độ dưới 10km/h là từ 800.000 đồng đến 1.000.000 đồng. Nếu chạy quá tốc độ từ 10km/h đến 20km/h, mức phạt từ 3.000.000 đồng đến 5.000.000 đồng. Nếu chạy quá tốc độ trên 20km/h, mức phạt từ 7.000.000 đồng đến 10.000.000 đồng." 
+      },
+      {
+        "question": "Hành khách gây mất trật tự trên xe bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm quy định về mức phạt đối với hành vi gây mất trật tự trên xe theo Điều 33 của Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với hành khách gây mất trật tự trên xe",
+            "retrieved_documents": [
+              "Điều 33, Khoản 1, Điểm b: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi gây mất trật tự trên xe."
+            ],
+            "reasoning": "Thông tin đã đủ để trả lời câu hỏi vì mức phạt đã được quy định rõ ràng."
+          }
+        ],
+        "final_answer": "Hành khách gây mất trật tự trên xe bị phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành khách mang chất dễ cháy, nổ lên xe khách?",
+        "initial_reasoning": "Cần tìm điều khoản liên quan đến việc mang chất dễ cháy, nổ lên xe khách trong Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Hành khách mang chất dễ cháy, nổ lên xe khách bị xử phạt thế nào?",
+            "retrieved_documents": [
+              "Điều 33, Khoản 2, Điểm a: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi mang hóa chất độc hại, chất dễ cháy, nổ, hàng nguy hiểm hoặc hàng cấm lưu thông trên xe chở khách."
+            ],
+            "reasoning": "Mức phạt đã được quy định rõ ràng trong điều khoản này, không cần tìm thêm thông tin."
+          }
+        ],
+        "final_answer": "Hành khách mang chất dễ cháy, nổ lên xe khách bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Hành khách nào bị tịch thu hàng hóa khi vi phạm quy định giao thông?",
+        "initial_reasoning": "Cần tìm quy định về hình thức xử phạt bổ sung liên quan đến việc tịch thu hàng hóa trong Điều 33 của Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Những trường hợp nào bị tịch thu hàng hóa theo Điều 33?",
+            "retrieved_documents": [
+              "Điều 33, Khoản 4: Ngoài việc bị phạt tiền, người thực hiện hành vi vi phạm quy định tại điểm a khoản 2 Điều này còn bị áp dụng hình thức xử phạt bổ sung tịch thu hóa chất độc hại, chất dễ cháy, nổ, hàng nguy hiểm, hàng cấm lưu thông mang theo trên xe chở khách."
+            ],
+            "reasoning": "Người mang hóa chất độc hại, chất dễ cháy, nổ, hàng nguy hiểm hoặc hàng cấm lưu thông sẽ bị tịch thu hàng hóa. Thông tin đã đầy đủ."
+          }
+        ],
+        "final_answer": "Hành khách mang hóa chất độc hại, chất dễ cháy, nổ, hàng nguy hiểm hoặc hàng cấm lưu thông trên xe khách sẽ bị tịch thu hàng hóa."
+      },
+      {
+        "question": "Mức phạt khi hành khách đu bám vào thành xe là bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt đối với hành vi đu bám vào thành xe trong Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Phạt tiền đối với hành khách đu bám vào thành xe?",
+            "retrieved_documents": [
+              "Điều 33, Khoản 2, Điểm b: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi đu, bám vào thành xe."
+            ],
+            "reasoning": "Thông tin đầy đủ để trả lời câu hỏi."
+          }
+        ],
+        "final_answer": "Hành khách đu bám vào thành xe bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Hành khách có thể bị phạt vì không nghe theo hướng dẫn của lái xe không?",
+        "initial_reasoning": "Cần tìm quy định về xử phạt hành khách không chấp hành hướng dẫn của lái xe theo Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với hành khách không chấp hành hướng dẫn của lái xe?",
+            "retrieved_documents": [
+              "Điều 33, Khoản 1, Điểm a: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi không chấp hành hướng dẫn của lái xe, nhân viên phục vụ trên xe về các quy định bảo đảm trật tự, an toàn giao thông."
+            ],
+            "reasoning": "Thông tin đã đầy đủ để trả lời câu hỏi."
+          }
+        ],
+        "final_answer": "Hành khách không chấp hành hướng dẫn của lái xe bị phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Hành khách gây mất trật tự trên xe bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm quy định về mức phạt đối với hành vi gây mất trật tự trên xe theo Điều 33 của Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với hành khách gây mất trật tự trên xe",
+            "retrieved_documents": [
+              "Điều 33, Khoản 1, Điểm b: Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi gây mất trật tự trên xe."
+            ],
+            "reasoning": "Thông tin đã đủ để trả lời câu hỏi vì mức phạt đã được quy định rõ ràng."
+          }
+        ],
+        "final_answer": "Hành khách gây mất trật tự trên xe bị phạt từ 100.000 đồng đến 200.000 đồng."
+      },
+      {
+        "question": "Mức phạt đối với hành khách mang chất dễ cháy, nổ lên xe khách?",
+        "initial_reasoning": "Cần tìm điều khoản liên quan đến việc mang chất dễ cháy, nổ lên xe khách trong Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Hành khách mang chất dễ cháy, nổ lên xe khách bị xử phạt thế nào?",
+            "retrieved_documents": [
+              "Điều 33, Khoản 2, Điểm a: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi mang hóa chất độc hại, chất dễ cháy, nổ, hàng nguy hiểm hoặc hàng cấm lưu thông trên xe chở khách."
+            ],
+            "reasoning": "Mức phạt đã được quy định rõ ràng trong điều khoản này, không cần tìm thêm thông tin."
+          }
+        ],
+        "final_answer": "Hành khách mang chất dễ cháy, nổ lên xe khách bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Hành khách nào bị tịch thu hàng hóa khi vi phạm quy định giao thông?",
+        "initial_reasoning": "Cần tìm quy định về hình thức xử phạt bổ sung liên quan đến việc tịch thu hàng hóa trong Điều 33 của Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Những trường hợp nào bị tịch thu hàng hóa theo Điều 33?",
+            "retrieved_documents": [
+              "Điều 33, Khoản 4: Ngoài việc bị phạt tiền, người thực hiện hành vi vi phạm quy định tại điểm a khoản 2 Điều này còn bị áp dụng hình thức xử phạt bổ sung tịch thu hóa chất độc hại, chất dễ cháy, nổ, hàng nguy hiểm, hàng cấm lưu thông mang theo trên xe chở khách."
+            ],
+            "reasoning": "Người mang hóa chất độc hại, chất dễ cháy, nổ, hàng nguy hiểm hoặc hàng cấm lưu thông sẽ bị tịch thu hàng hóa. Thông tin đã đầy đủ."
+          }
+        ],
+        "final_answer": "Hành khách mang hóa chất độc hại, chất dễ cháy, nổ, hàng nguy hiểm hoặc hàng cấm lưu thông trên xe khách sẽ bị tịch thu hàng hóa."
+      },
+      {
+        "question": "Hành khách đe dọa người khác trên xe bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm mức phạt đối với hành vi đe dọa, xâm phạm sức khỏe người khác trên xe theo Điều 33 của Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với hành khách đe dọa, xâm phạm sức khỏe người khác?",
+            "retrieved_documents": [],
+            "reasoning": "Không tìm thấy thông tin ngay lập tức, có thể cần tìm với truy vấn khác."
+          },
+          {
+            "query": "Xử phạt hành khách xâm phạm sức khỏe người khác trên xe",
+            "retrieved_documents": [
+              "Điều 33, Khoản 3: Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi đe dọa, xâm phạm sức khỏe của người khác đi trên xe, lái xe, nhân viên phục vụ trên xe."
+            ],
+            "reasoning": "Thông tin đã đầy đủ, mức phạt cụ thể đã được xác định."
+          }
+        ],
+        "final_answer": "Hành khách đe dọa, xâm phạm sức khỏe người khác trên xe bị phạt từ 2.000.000 đồng đến 3.000.000 đồng."
+      },
+      {
+        "question": "Hành khách tự ý mở cửa xe khi xe đang chạy có bị phạt không?",
+        "initial_reasoning": "Cần tìm quy định xử phạt đối với hành vi tự ý mở cửa xe khi xe đang chạy theo Điều 33 của Nghị định 168.",
+        "iterations": [
+          {
+            "query": "Mức phạt đối với hành khách tự ý mở cửa xe khi xe đang chạy?",
+            "retrieved_documents": [],
+            "reasoning": "Không có thông tin ngay lập tức, cần tìm thêm với một truy vấn khác."
+          },
+          {
+            "query": "Hành vi nào bị phạt khi xe đang chạy?",
+            "retrieved_documents": [
+              "Điều 33, Khoản 2, Điểm b: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi tự ý mở cửa xe hoặc có hành vi khác không bảo đảm an toàn khi xe đang chạy."
+            ],
+            "reasoning": "Tìm thấy thông tin liên quan, mức phạt đã được xác định."
+          }
+        ],
+        "final_answer": "Hành khách tự ý mở cửa xe khi xe đang chạy bị phạt từ 1.000.000 đồng đến 2.000.000 đồng."
+      },
+      {
+        "question": "Điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm điều khoản quy định về mức phạt cho hành vi điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ.",
+        "iterations": [
+          {
+            "query": "mức phạt điều khiển xe vượt khổ giới hạn đường bộ",
+            "retrieved_documents": [
+              "Khoản 3, Điều 34: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ."
+            ],
+            "reasoning": "Đã tìm thấy điều khoản quy định mức phạt từ 8.000.000 đến 10.000.000 đồng cho hành vi này. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt cho hành vi điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ là từ 8.000.000 đồng đến 10.000.000 đồng theo Khoản 3, Điều 34."
+      },
+      {
+        "question": "Điều khiển xe có tải trọng vượt quá 50% so với tải trọng cho phép của đường bộ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm điều khoản quy định mức phạt đối với hành vi điều khiển xe có tải trọng vượt quá 50% so với tải trọng cho phép của đường bộ.",
+        "iterations": [
+          {
+            "query": "mức phạt điều khiển xe quá tải trên 50%",
+            "retrieved_documents": [
+              "Khoản 5, Điều 34: Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi điều khiển xe mà tổng trọng lượng vượt quá tải trọng cho phép của đường bộ trên 50%."
+            ],
+            "reasoning": "Đã tìm thấy điều khoản quy định mức phạt từ 40.000.000 đến 50.000.000 đồng cho hành vi này. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt cho hành vi điều khiển xe có tải trọng vượt quá 50% so với tải trọng cho phép của đường bộ là từ 40.000.000 đồng đến 50.000.000 đồng theo Khoản 5, Điều 34."
+      },
+      {
+        "question": "Điều khiển xe mà không thực hiện biện pháp bảo vệ đường khi lưu thông trực tiếp bị xử phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm điều khoản quy định mức phạt đối với hành vi điều khiển xe bánh xích lưu thông trực tiếp trên đường mà không thực hiện biện pháp bảo vệ đường.",
+        "iterations": [
+          {
+            "query": "mức phạt xe bánh xích không bảo vệ đường",
+            "retrieved_documents": [
+              "Khoản 3, Điều 34: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi điều khiển xe bánh xích tham gia giao thông không thực hiện biện pháp bảo vệ đường theo quy định."
+            ],
+            "reasoning": "Đã tìm thấy điều khoản quy định mức phạt từ 8.000.000 đến 10.000.000 đồng cho hành vi này. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt cho hành vi điều khiển xe bánh xích không thực hiện biện pháp bảo vệ đường là từ 8.000.000 đồng đến 10.000.000 đồng theo Khoản 3, Điều 34."
+      },
+      {
+        "question": "Điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ bị phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm điều khoản quy định về mức phạt cho hành vi điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ.",
+        "iterations": [
+          {
+            "query": "mức phạt điều khiển xe vượt khổ giới hạn đường bộ",
+            "retrieved_documents": [
+              "Khoản 3, Điều 34: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ."
+            ],
+            "reasoning": "Đã tìm thấy điều khoản quy định mức phạt từ 8.000.000 đến 10.000.000 đồng cho hành vi này. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt cho hành vi điều khiển xe có kích thước bao ngoài vượt quá khổ giới hạn của đường bộ là từ 8.000.000 đồng đến 10.000.000 đồng theo Khoản 3, Điều 34."
+      },
+      {
+        "question": "Điều khiển xe có tải trọng vượt quá 50% so với tải trọng cho phép của đường bộ bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm điều khoản quy định mức phạt đối với hành vi điều khiển xe có tải trọng vượt quá 50% so với tải trọng cho phép của đường bộ.",
+        "iterations": [
+          {
+            "query": "mức phạt điều khiển xe quá tải trên 50%",
+            "retrieved_documents": [
+              "Khoản 5, Điều 34: Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi điều khiển xe mà tổng trọng lượng vượt quá tải trọng cho phép của đường bộ trên 50%."
+            ],
+            "reasoning": "Đã tìm thấy điều khoản quy định mức phạt từ 40.000.000 đến 50.000.000 đồng cho hành vi này. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt cho hành vi điều khiển xe có tải trọng vượt quá 50% so với tải trọng cho phép của đường bộ là từ 40.000.000 đồng đến 50.000.000 đồng theo Khoản 5, Điều 34."
+      },
+      {
+        "question": "Điều khiển xe mà không thực hiện biện pháp bảo vệ đường khi lưu thông trực tiếp bị xử phạt bao nhiêu?",
+        "initial_reasoning": "Cần tìm điều khoản quy định mức phạt đối với hành vi điều khiển xe bánh xích lưu thông trực tiếp trên đường mà không thực hiện biện pháp bảo vệ đường.",
+        "iterations": [
+          {
+            "query": "mức phạt xe bánh xích không bảo vệ đường",
+            "retrieved_documents": [
+              "Khoản 3, Điều 34: Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi điều khiển xe bánh xích tham gia giao thông không thực hiện biện pháp bảo vệ đường theo quy định."
+            ],
+            "reasoning": "Đã tìm thấy điều khoản quy định mức phạt từ 8.000.000 đến 10.000.000 đồng cho hành vi này. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt cho hành vi điều khiển xe bánh xích không thực hiện biện pháp bảo vệ đường là từ 8.000.000 đồng đến 10.000.000 đồng theo Khoản 3, Điều 34."
+      },
+      {
+        "question": "Điều khiển xe mà tổng trọng lượng vượt quá tải trọng cho phép từ 20% đến 50% bị xử phạt như thế nào?",
+        "initial_reasoning": "Cần tìm điều khoản quy định mức phạt đối với hành vi điều khiển xe vượt quá tải trọng từ 20% đến 50%.",
+        "iterations": [
+          {
+            "query": "mức phạt xe quá tải trên 20% đến 50%",
+            "retrieved_documents": [
+              "Khoản 4, Điều 34: Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với hành vi điều khiển xe mà tổng trọng lượng vượt quá tải trọng cho phép của đường bộ trên 20% đến 50%."
+            ],
+            "reasoning": "Đã tìm thấy điều khoản quy định mức phạt từ 13.000.000 đến 15.000.000 đồng cho hành vi này. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt cho hành vi điều khiển xe có tổng trọng lượng vượt quá tải trọng cho phép từ 20% đến 50% là từ 13.000.000 đồng đến 15.000.000 đồng theo Khoản 4, Điều 34."
+      },
+      {
+        "question": "Mức phạt đối với hành vi tụ tập cổ vũ đua xe trái phép là bao nhiêu?",
+        "initial_reasoning": "Cần tìm thông tin về mức phạt đối với hành vi tụ tập cổ vũ đua xe trái phép trong Nghị định.",
+        "iterations": [
+          {
+            "query": "mức phạt tụ tập cổ vũ đua xe trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm tụ tập để cổ vũ, giúp sức, xúi giục hành vi điều khiển xe chạy quá tốc độ quy định, lạng lách, đánh võng, đuổi nhau trên đường hoặc đua xe trái phép."
+            ],
+            "reasoning": "Mức phạt được quy định rõ ràng trong Điều 35, Khoản 1. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt đối với hành vi tụ tập cổ vũ đua xe trái phép là từ 1.000.000 đồng đến 2.000.000 đồng theo Điều 35, Khoản 1 của Nghị định."
+      },
+      {
+        "question": "Mức phạt đối với cá nhân tổ chức đua xe trái phép là bao nhiêu?",
+        "initial_reasoning": "Cần tìm thông tin về mức phạt áp dụng cho cá nhân tổ chức đua xe trái phép.",
+        "iterations": [
+          {
+            "query": "mức phạt cá nhân tổ chức đua xe trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 2: Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với cá nhân, từ 80.000.000 đồng đến 100.000.000 đồng đối với tổ chức thực hiện hành vi vi phạm tổ chức đua xe trái phép."
+            ],
+            "reasoning": "Mức phạt đối với cá nhân và tổ chức đã được quy định rõ ràng trong Điều 35, Khoản 2. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt đối với cá nhân tổ chức đua xe trái phép là từ 40.000.000 đồng đến 50.000.000 đồng, còn tổ chức vi phạm bị phạt từ 80.000.000 đồng đến 100.000.000 đồng theo Điều 35, Khoản 2."
+      },
+      {
+        "question": "Hình thức xử phạt bổ sung đối với người đua xe ô tô trái phép là gì?",
+        "initial_reasoning": "Cần xác định hình thức xử phạt bổ sung đối với người điều khiển phương tiện đua xe ô tô trái phép.",
+        "iterations": [
+          {
+            "query": "xử phạt bổ sung đua xe ô tô trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 3, Điểm b: Tịch thu phương tiện đối với người điều khiển phương tiện thực hiện hành vi vi phạm đua xe ô tô, mô tô trái phép trên đường giao thông."
+            ],
+            "reasoning": "Người đua xe ô tô trái phép bị tịch thu phương tiện. Cần kiểm tra thêm có hình thức xử phạt bổ sung nào khác không."
+          },
+          {
+            "query": "tước giấy phép lái xe đối với đua xe ô tô trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 4: Ngoài việc bị tịch thu phương tiện, người điều khiển phương tiện thực hiện hành vi quy định tại điểm b khoản 3 Điều này bị áp dụng hình thức xử phạt bổ sung tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng."
+            ],
+            "reasoning": "Ngoài tịch thu phương tiện, người vi phạm còn bị tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng."
+          }
+        ],
+        "final_answer": "Người đua xe ô tô trái phép bị tịch thu phương tiện và tước giấy phép lái xe từ 22 tháng đến 24 tháng theo Điều 35, Khoản 3, Điểm b và Khoản 4 của Nghị định."
+      },
+
+      {
+        "question": "Mức phạt đối với hành vi tụ tập cổ vũ đua xe trái phép là bao nhiêu?",
+        "initial_reasoning": "Cần tìm thông tin về mức phạt đối với hành vi tụ tập cổ vũ đua xe trái phép trong Nghị định.",
+        "iterations": [
+          {
+            "query": "mức phạt tụ tập cổ vũ đua xe trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 1: Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm tụ tập để cổ vũ, giúp sức, xúi giục hành vi điều khiển xe chạy quá tốc độ quy định, lạng lách, đánh võng, đuổi nhau trên đường hoặc đua xe trái phép."
+            ],
+            "reasoning": "Mức phạt được quy định rõ ràng trong Điều 35, Khoản 1. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt đối với hành vi tụ tập cổ vũ đua xe trái phép là từ 1.000.000 đồng đến 2.000.000 đồng theo Điều 35, Khoản 1 của Nghị định."
+      },
+      {
+        "question": "Mức phạt đối với cá nhân tổ chức đua xe trái phép là bao nhiêu?",
+        "initial_reasoning": "Cần tìm thông tin về mức phạt áp dụng cho cá nhân tổ chức đua xe trái phép.",
+        "iterations": [
+          {
+            "query": "mức phạt cá nhân tổ chức đua xe trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 2: Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với cá nhân, từ 80.000.000 đồng đến 100.000.000 đồng đối với tổ chức thực hiện hành vi vi phạm tổ chức đua xe trái phép."
+            ],
+            "reasoning": "Mức phạt đối với cá nhân và tổ chức đã được quy định rõ ràng trong Điều 35, Khoản 2. Không cần truy vấn thêm."
+          }
+        ],
+        "final_answer": "Mức phạt đối với cá nhân tổ chức đua xe trái phép là từ 40.000.000 đồng đến 50.000.000 đồng, còn tổ chức vi phạm bị phạt từ 80.000.000 đồng đến 100.000.000 đồng theo Điều 35, Khoản 2."
+      },
+      {
+        "question": "Hình thức xử phạt bổ sung đối với người đua xe ô tô trái phép là gì?",
+        "initial_reasoning": "Cần xác định hình thức xử phạt bổ sung đối với người điều khiển phương tiện đua xe ô tô trái phép.",
+        "iterations": [
+          {
+            "query": "xử phạt bổ sung đua xe ô tô trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 3, Điểm b: Tịch thu phương tiện đối với người điều khiển phương tiện thực hiện hành vi vi phạm đua xe ô tô, mô tô trái phép trên đường giao thông."
+            ],
+            "reasoning": "Người đua xe ô tô trái phép bị tịch thu phương tiện. Cần kiểm tra thêm có hình thức xử phạt bổ sung nào khác không."
+          },
+          {
+            "query": "tước giấy phép lái xe đối với đua xe ô tô trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 4: Ngoài việc bị tịch thu phương tiện, người điều khiển phương tiện thực hiện hành vi quy định tại điểm b khoản 3 Điều này bị áp dụng hình thức xử phạt bổ sung tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng."
+            ],
+            "reasoning": "Ngoài tịch thu phương tiện, người vi phạm còn bị tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng."
+          }
+        ],
+        "final_answer": "Người đua xe ô tô trái phép bị tịch thu phương tiện và tước giấy phép lái xe từ 22 tháng đến 24 tháng theo Điều 35, Khoản 3, Điểm b và Khoản 4 của Nghị định."
+      },
+      {
+        "question": "Mức phạt đối với hành vi đua xe mô tô trái phép là bao nhiêu?",
+        "initial_reasoning": "Cần tìm mức phạt cho hành vi đua xe mô tô trái phép, xem có các hình thức xử phạt bổ sung không.",
+        "iterations": [
+          {
+            "query": "mức phạt đua xe mô tô trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 3, Điểm b: Tịch thu phương tiện đối với người điều khiển phương tiện thực hiện hành vi vi phạm đua xe ô tô, mô tô trái phép trên đường giao thông."
+            ],
+            "reasoning": "Người đua xe mô tô trái phép bị tịch thu phương tiện. Cần xác định thêm có bị phạt tiền hoặc xử phạt bổ sung khác không."
+          },
+          {
+            "query": "xử phạt bổ sung đua xe mô tô trái phép",
+            "retrieved_documents": [
+              "Điều 35, Khoản 4: Ngoài việc bị tịch thu phương tiện, người điều khiển phương tiện thực hiện hành vi quy định tại điểm b khoản 3 Điều này bị áp dụng hình thức xử phạt bổ sung tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng."
+            ],
+            "reasoning": "Người đua xe mô tô trái phép còn bị tước quyền sử dụng giấy phép lái xe từ 22 đến 24 tháng."
+          }
+        ],
+        "final_answer": "Người đua xe mô tô trái phép bị tịch thu phương tiện và tước giấy phép lái xe từ 22 tháng đến 24 tháng theo Điều 35, Khoản 3, Điểm b và Khoản 4 của Nghị định."
+      }
+
 ]

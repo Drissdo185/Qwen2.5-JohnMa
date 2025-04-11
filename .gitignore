@@ -9,3 +9,5 @@ llama_v2/
 qwen_v1/
 
 qwen_v2/
+
+src/qwen_training_src
